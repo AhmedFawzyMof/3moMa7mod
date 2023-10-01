@@ -1,0 +1,181 @@
+[
+  {
+    "title": "Cyber Assets\n\n",
+    "conversation": "Cyber Assets means the programmable electronic devices, including the hardware, software and data in those devices that are connected over a network, such as LAN, WAN and HAN.\n",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "ITAR\n\n",
+    "conversation": "What is ITAR? International Traffic in Arms Regulations (ITAR) controls the export from the US of defense-related articles, and the regulations state that no non-US person can have physical or logical access to the articles stored in the ITAR environment.\n",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "nit\n",
+    "conversation": "A nit is the unit of measurement that describes how bright a television, smartphone, computer monitor, laptop screen, or another type of display is. The higher the number of nits, the brighter the display.\n",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "conversation": "Portrait mode is a phone camera feature that keeps objects in the foreground focused while blurring the background.28‏/05‏/2019\n",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "Swiches",
+    "conversation": "Are used to connect between devices",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "Routers",
+    "conversation": "Are used to connect between networks",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "Server",
+    "conversation": "A server stores, sends, and receives data. In essence. A computer, software program, or even a storage device may act as a server, and it may provide one service or several.",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "Active directory tool",
+    "conversation": "Active Directory stores information about objects on the network and makes this information easy for administrators and users to find and use. Active Directory uses a structured data store as the basis for a logical, hierarchical organization of directory information.",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "On-premises",
+    "conversation": "On-premises refers to IT infrastructure hardware and software applications that are hosted on-site. This contrasts with IT assets that are hosted by a public cloud platform or remote data center.",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "On-premises vs cloud",
+    "conversation": "Simply put, the difference between on-premise vs cloud software is the location. On-premise software is installed and runs on a company's own hardware infrastructure, and is hosted locally, whereas cloud software is stored and managed on the provider's servers, and accessed through a web browser or other interface.\n",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "Routers vs switches",
+    "conversation": "Both Routers and Switches are network connecting devices. Routers work at the network layer and are responsible to find the shortest path for a packet across the network, whereas Switches connect various devices in a network. Routers connect devices across multiple networks.\n",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "Peer to peer",
+    "conversation": "In peer-to-peer (P2P) networking, a group of computers are linked together with equal permissions and responsibilities for processing data. Unlike traditional client-server networking, no devices in a P2P network are designated solely to serve or to receive data.",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "Server network",
+    "conversation": "Network servers are dedicated computers connected to a network that run software intended to process client requests and provide appropriate responses. The server can more specifically relate to the software itself, but a network server tends to incorporate the physical system this software runs upon.\n",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "Domain network",
+    "conversation": "Domain networks are the first architectural piece used to organize the utility network. They allow you to model large, logically separate sections of your system. A utility network can have one or more domain networks.\n",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "Domain vs workgroup",
+    "conversation": "While a domain allows network admins to use servers to control all their assets that exist within the domain, a workgroup uses a LAN to communicate, and within a workgroup, no single machine or computer will have control over any other. Instead, they just share resources.",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "Domain controller",
+    "conversation": "A domain controller is the server responsible for managing network and identity security requests. It acts as a gatekeeper and authenticates whether the user is authorized to access the IT resources in the domain.\n",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "network topology",
+    "conversation": "What is a network topology? A network topology is the physical and logical arrangement of nodes and connections in a network. Nodes usually include devices such as switches, routers and software with switch and router features. Network topologies are often represented as a graph.",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "Bus topology",
+    "conversation": "Bus topology, also known as line topology, is a type of network topology in which all devices in the network are connected by one central RJ-45 network cable or coaxial cable. The single cable, where all data is transmitted between devices, is referred to as the bus, backbone, or trunk.\n",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "Ring topology",
+    "conversation": "Ring topology is a type of network topology in which each device is connected to two other devices on either side via an RJ-45 cable or coaxial cable. This forms a circular ring of connected devices which gives it its name. Data is commonly transferred in one direction along the ring, known as a unidirectional ring.\n",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "Mesh topology ",
+    "conversation": "Mesh topology is a type of network topology in which all devices in the network are interconnected. In a mesh topology, data can be transmitted by routing (sent the shortest distance) and flooding (sent to all devices).\n",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "Star topology",
+    "conversation": "Star topology is a type of network topology in which every device in the network is individually connected to a central node, known as the switch or hub.\n",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "Full mesh vs. partial mesh topology",
+    "conversation": "In a full mesh network topology, each node is connected directly to all the other nodes. In a partial mesh topology, only some nodes connect directly to one another. In some cases, a node must go through another node to reach a third node.",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "Coaxial cable",
+    "conversation": "The coaxial cable is a type of copper cable used and consists of a copper wire surrounded by a scheduled wire set separated by an insulating layer The coaxial cable is specially made to transmit signals and is frequently used to connect a radio or recording device to another device It is also used by telephone and telecommunications companies. Signals are just high frequency waves.",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "Twisted pair cable",
+    "conversation": "The scheduled dual wire is a type of wire, in which two single-circuit conductors are twisted, with the aim of eliminating electromagnetic interference coming from external sources. For example, electromagnetic radiation formed by unwrapped galvanized cable pair and mutual interference between adjacent couples. It was invented by Alexander Graham Bell.",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "Fiber-optic cable",
+    "conversation": "Fiber optic cable or cable is also known as fiber optic cable but contains one or more fibers that carry light known as \"optical fiber.\" The components of this fiber are individually coated for each fiber with a plastic layer and preserved within a protective tube suitable for the environment in which the cable will be used.",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "Thinnet cable",
+    "conversation": "Thin Ethernet, popularly known as cheapernet or thinnet, is among the family of Ethernet standards that uses thinner coaxial cable as a transmission media. It is technically known as 10-BASE-2.",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "Thicknet cable",
+    "conversation": "Main definition. Thicknet. Denotes a coaxial cable type (similar to RG-8) that is commonly used with Ethernet (10Base-5) backbones. Originally, thicknet cabling was the only cabling type used with Ethernet, but it was replaced as backbone cabling by optical fiber cabling.",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "transceiver",
+    "conversation": "A transceiver is a combination transmitter/receiver in a single package. While the term typically applies to wireless communications devices, it can also be used for transmitter/receiver devices in cable or optical fiber systems.\n",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "Shielded twisted pair (STP)",
+    "conversation": "Shielded twisted pair (STP) is a special kind of copper telephone and local area network (LAN) wiring used in some business installations. It adds an outer covering or shield that functions as a ground to ordinary twisted pair wiring.\n",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "Unshielded twisted pair cable (UTP)",
+    "conversation": "Shielded twisted pair cable (STP) has the individual pairs of wires wrapped in foil, which are then wrapped again for double protection. Unshielded twisted pair cable (UTP) has each pair of wires twisted together. Those wires are then wrapped in tubing without any other protection.",
+    "translation": "",
+    "arabic": ""
+  }
+]

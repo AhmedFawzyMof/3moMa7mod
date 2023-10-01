@@ -1,0 +1,101 @@
+@import url("https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;500;600;700&display=swap");
+
+#play {
+  position: absolute;
+  top: 5px;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 5px 10px;
+  font-size: 15px;
+  font-family: "Poppins";
+}
+.playMessage {
+  position: absolute;
+  top: -20px;
+  right: 5px;
+  width: 35px;
+  height: 35px;
+  font-size: 30px;
+  display: grid;
+  place-items: center;
+  border-radius: 5px;
+  border: none;
+  background: black;
+  color: white;
+}
+.playTrans {
+  top: -20px;
+  right: 5px;
+  position: absolute;
+  width: 35px;
+  height: 35px;
+  font-size: 30px;
+  display: grid;
+  place-items: center;
+  border-radius: 5px;
+  border: none;
+  background: black;
+  color: white;
+}
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+  font-family: "Poppins", Cairo;
+}
+.theLesson {
+  width: 100%;
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+  padding: 7.5px;
+  gap: 15px;
+  margin-top: 20px;
+  gap: 20px;
+}
+
+.message {
+  position: relative;
+  background: #333;
+  color: #fff;
+  width: 80%;
+  border-radius: 5px;
+  padding: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.translation {
+  position: relative;
+  background: #0d9eff;
+  color: #fff;
+  width: 80%;
+  border-radius: 5px;
+  padding: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.arabic {
+  position: relative;
+  background: #eee;
+  color: #333;
+  width: 80%;
+  border-radius: 5px;
+  padding: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+@media (max-width: 700px) {
+  .message {
+    width: 95%;
+  }
+  .translation {
+    width: 95%;
+  }
+  .arabic {
+    width: 95%;
+  }
+}

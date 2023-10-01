@@ -1,0 +1,98 @@
+[
+  {
+    "title": "The Open Systems Interconnection (OSI) model\n",
+    "conversation": "The Open Systems Interconnection (OSI) model describes seven layers that computer systems use to communicate over a network. It was the first standard model for network communications, adopted by all major computer and telecommunication companies in the early ",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "ISO (International Organization for Standardization)\n",
+    "conversation": "ISO (International Organization for Standardization) is an independent, non-governmental, international organization that develops standards to ensure the quality, safety, and efficiency of products, services, and systems.",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "TCP/IP\n",
+    "conversation": "TCP/IP stands for Transmission Control Protocol/Internet Protocol and is a suite of communication protocols used to interconnect network devices on the internet. TCP/IP is also used as a communications protocol in a private computer network (an intranet or extranet).\n",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "User Datagram Protocol (UDP)\n",
+    "conversation": "User Datagram Protocol (UDP) is a communications protocol that is primarily used to establish low-latency and loss-tolerating connections between applications on the internet. UDP speeds up transmissions by enabling the transfer of data before an agreement is provided by the receiving party.\n",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "The application layer\n",
+    "conversation": "The application layer sits at Layer 7, the top of the Open Systems Interconnection (OSI) communications model. It ensures an application can effectively communicate with other applications on different computer systems and networks. The application layer is not an application.\n",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "presentation layer\n",
+    "conversation": "What is the presentation layer? The presentation layer resides at Layer 6 of the Open Systems Interconnection (OSI) communications model and ensures that communications that pass through it are in the appropriate form for the recipient application.",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "Open Systems Interconnection\n",
+    "conversation": "In the Open Systems Interconnection (OSI) model, the session layer is the fifth layer, which controls the connections between multiple computers. The session layer tracks the dialogs between computers, which are also called sessions. This layer establishes, controls and ends the sessions between local and remote applications.",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "transport layer\n",
+    "conversation": "The transport layer is Layer 4 of the Open Systems Interconnection (OSI) communications model. It is responsible for ensuring that the data packets arrive accurately and reliably between sender and receiver. The transport layer most often uses TCP or User Datagram Protocol (UDP).\n",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "The \"network layer\"\n",
+    "conversation": "The \"network layer\" is the part of the Internet communications process where these connections occur, by sending packets of data back and forth between different networks.\n",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "The data link layer\n",
+    "conversation": "The data link layer is the protocol layer in a program that handles the moving of data into and out of a physical link in a network. The data link layer is Layer 2 in the Open Systems Interconnection (OSI) architecture model for a set of telecommunication protocols.\n",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "The physical layer\n",
+    "conversation": "The physical layer is the first and lowest layer of the Open Systems Interconnection (OSI) communications model. The physical layer's function is to transport data using electrical, mechanical or procedural interfaces. OSI is a reference model used to show how applications communicate over a network.\n",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "MAC (Media Access Control)\n",
+    "conversation": "A MAC (Media Access Control) address, sometimes referred to as a hardware or physical address, is a unique, 12-character alphanumeric attribute that is used to identify individual electronic devices on a network. An example of a MAC address is: ",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "The physical address\n",
+    "conversation": "The physical address -- which is also called a media access control, or MAC, address -- identifies a device to other devices on the same local network. The internet address -- or IP address -- identifies the device globally. A network packet needs both addresses to get to its destination.\n",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "broadcast domain\n",
+    "conversation": "This address represents every device on a given network. The purpose of a broadcast domain is to enable a source device to send data to every device on the network by using the broadcast address as the destination's MAC address.\n",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "half-duplex transmission\n",
+    "conversation": "A half-duplex transmission could be considered a one-way street between sender and receiver. Full-duplex, on the other hand, enables two-way traffic at the same time. A communications channel can be used to communicate one way at a time or in both directions at once.\n",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "Request for Comments\n",
+    "conversation": "A Request for Comments (RFC) is a formal document from the Internet Engineering Task Force (IETF) that contains specifications and organizational notes about topics related to the internet and computer networking, such as routing, addressing and transport technologies.\n",
+    "translation": "",
+    "arabic": ""
+  }
+]

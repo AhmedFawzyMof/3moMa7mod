@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{ title }}</title>
+    <link
+      href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/static/css/lesson.css" />
+    <script defer>
+      const Remove = () => {
+        fetch(`${window.origin}/remove`, {
+          method: "POST",
+        })
+          .then(function (response) {
+            if (response.status != 200) {
+              console.log(response.statusText);
+            }
+            response.json().then(function (data) {
+              console.log(data);
+            });
+          })
+          .catch(function (error) {
+            console.log(error);
+          });
+      };
+
+      const playMessage = (title, index) => {
+        const audio = new Audio(`/static/audio/${title}${index}(en).mp3`);
+        audio.play();
+
+        // audio.onloadedmetadata = function () {
+        //   const duration = audio.duration * 1000;
+
+        //   if (next === true) {
+        //     setTimeout(() => playTrans(true), duration);
+        //   }
+        // };
+      };
+      const playTrans = (title, index) => {
+        const audio = new Audio(`/static/audio/${title}${index}({{code}}).mp3`);
+
+        // audio.onloadedmetadata = function () {
+        //   const duration = audio.duration * 1000;
+
+        //   if (next === true) {
+        //     setTimeout(() => playAr(), duration);
+        //   }
+        // };
+
+        audio.play();
+      };
+      const playAr = (title, index) => {
+        const audio = new Audio(`/static/audio/${title}${index}(ar).mp3`);
+        audio.play();
+      };
+    </script>
+  </head>
+  <body>
+    <input type="hidden" id="lesson" value="{{lesson}}" />
+    <div class="theLesson"></div>
+    <button id="remove" onclick="Remove()">Remove Audio Files</button>
+    <script src="/static/js/lesson.js"></script>
+  </body>
+</html>

@@ -1,0 +1,469 @@
+[
+  {
+    "title": "short circuit",
+    "conversation": [
+      "A short circuit occurs when the current finds a way to bypass the appliance on a path that has little or no resistance—for example, where frayed insulation bares a wire and allows it to touch the frame of the appliance, so the current can flow straight to the ground"
+    ],
+    "translation": [
+      "Короткое замыкание происходит, когда ток находит способ обойти устройство по пути с небольшим сопротивлением или вообще без сопротивления, например, когда изношенная изоляция оголяет провод и позволяет ему касаться корпуса устройства, поэтому ток может течь прямо на землю"
+    ],
+    "arabic": [
+      "تحدث دائرة كهربائية قصيرة عندما يجد التيار طريقة لتجاوز الجهاز على مسار به مقاومة قليلة أو لا توجد مقاومة على الإطلاق - على سبيل المثال ، عندما يحجب العزل التالف سلكًا ويسمح له بلمس إطار الجهاز ، وبالتالي يمكن للتيار أن يتدفق بشكل مستقيم على الأرض"
+    ]
+  },
+  {
+    "title": "What happen in a short circuit",
+    "conversation": [
+      "During a short circuit, there is a sudden change in the direction that the electrical current is traveling and the resistance will plummet to a much lower level than before, causing the electrical flow to spike and carry a massive volume of unimpeded current through an unexpected pathway"
+    ],
+    "translation": [
+      "Во время короткого замыкания происходит внезапное изменение направления электрического тока, и сопротивление падает до гораздо более низкого уровня, чем раньше, вызывая всплеск электрического потока и перенос огромного объема беспрепятственного тока по неожиданному пути"
+    ],
+    "arabic": [
+      "أثناء الدائرة القصيرة ، هناك تغيير مفاجئ في الاتجاه الذي يسير فيه التيار الكهربائي وستنخفض المقاومة إلى مستوى أقل بكثير من ذي قبل ، مما يتسبب في ارتفاع التدفق الكهربائي وحمل حجم هائل من التيار غير المعوق عبر مسار غير متوقع "
+    ]
+  },
+  {
+    "title": "A shielded cable or screened cable",
+    "conversation": [
+      "A shielded cable or screened cable is an electrical cable that has a common conductive layer around its conductors for electromagnetic shielding",
+      "[1] This shield is usually covered by an outermost layer of the cable",
+      " Common types of cable shielding can most broadly be categorized as foil type (hereunder: metallised film), contraspiralling wire strands (braided or unbraided) or both",
+      "[2] A longitudinal wire may be necessary with dielectric spiral foils to short out each turn [1]"
+    ],
+    "translation": [
+      "Экранированный кабель или экранированный кабель — это электрический кабель, который имеет общий проводящий слой вокруг проводников для электромагнитного экранирования",
+      "[1] Этот экран обычно покрывается внешним слоем кабеля",
+      " Обычные типы экранирования кабеля можно в самом широком смысле разделить на фольгу (далее: металлизированная пленка), спиральные проволочные жилы (в оплетке или без оплетки) или и то, и другое",
+      "[2] Может потребоваться продольный провод с диэлектрической спиральной фольгой для замыкания каждого витка"
+    ],
+    "arabic": [
+      "الكبل المحمي أو الكبل المعزول عبارة عن كبل كهربائي له طبقة موصلة مشتركة حول موصلاته للحماية الكهرومغناطيسية",
+      " عادة ما يتم تغطية هذا الدرع بطبقة خارجية من الكابل",
+      " يمكن تصنيف الأنواع الشائعة لتدريع الكابلات على نطاق واسع على أنها نوع رقائق (فيما يلي: فيلم ممعدن) ، أو خيوط سلكية غير مضفرة (مضفرة أو غير مضفرة) أو كليهما",
+      " قد يكون من الضروري وجود سلك طولي مع رقائق لولبية عازلة لتقصير كل دورة [1]"
+    ]
+  },
+  {
+    "title": "location algorithms",
+    "conversation": [
+      "As a result, location-based algorithms can provide a much broader range of functionality, including generating planar network topologies; efficient geographic routing; computing the area and centroid of regions; and identifying the topological structure of complex areal objects"
+    ],
+    "translation": [
+      "В результате алгоритмы, основанные на местоположении, могут предоставлять гораздо более широкий набор функций, включая создание плоских сетевых топологий; эффективная географическая маршрутизация; вычисление площади и центроида регионов; и выявление топологической структуры сложных пространственных объектов"
+    ],
+    "arabic": [
+      "نتيجة لذلك ، يمكن أن توفر الخوارزميات القائمة على الموقع نطاقًا أوسع بكثير من الوظائف ، بما في ذلك إنشاء طبولوجيا الشبكة المستوية ؛ التوجيه الجغرافي الفعال ؛ حساب المنطقة والنقطة الوسطى للمناطق ؛ وتحديد البنية الطوبولوجية لكائنات المساحات المعقدة"
+    ]
+  },
+  {
+    "title": "Geographic coordinate system",
+    "conversation": [
+      "What are GPS (global positioning system) coordinates? GPS coordinates are a unique identifier of a precise geographic location on the earth, usually expressed in alphanumeric characters",
+      " Coordinates, in this context, are points of intersection in a grid system"
+    ],
+    "translation": [
+      "Что такое координаты GPS (глобальная система позиционирования)? GPS-координаты — это уникальный идентификатор точного географического положения на Земле, обычно выражаемый буквенно-цифровыми символами",
+      " Координаты в этом контексте являются точками пересечения в системе координат"
+    ],
+    "arabic": [
+      "ما هي إحداثيات GPS (نظام تحديد المواقع العالمي)؟ إحداثيات GPS هي معرف فريد لموقع جغرافي دقيق على الأرض ، وعادة ما يتم التعبير عنه بأحرف أبجدية رقمية",
+      " الإحداثيات ، في هذا السياق ، هي نقاط تقاطع في نظام الشبكة"
+    ]
+  },
+  {
+    "title": "MTTR",
+    "conversation": [
+      "MTTR (mean time to recovery or mean time to restore) is the average time it takes to recover from a product or system failure"
+    ],
+    "translation": [
+      "MTTR (среднее время восстановления или среднее время восстановления) — это среднее время восстановления после сбоя продукта или системы"
+    ],
+    "arabic": [
+      "MTTR (متوسط وقت الاسترداد أو متوسط وقت الاستعادة) هو متوسط الوقت المستغرق للتعافي من فشل المنتج أو النظام"
+    ]
+  },
+  {
+    "title": "SMD",
+    "conversation": [
+      "Surface installation technology, abbreviated to TTS-SMT, is a method of manufacturing printed circuit boards in which surface-mounted components directly installed on the surface of the printed circuit board are used Terminology of surface electronic elements shall be termed as a recognizable name for paintings with surface electronic components and elements or with surface installation technology",
+      " Wikipedi_x000D_"
+    ],
+    "translation": [
+      "Технология поверхностного монтажа, сокращенно ТТС-СМТ, представляет собой способ изготовления печатных плат, при котором используются компоненты поверхностного монтажа, устанавливаемые непосредственно на поверхность печатной платы",
+      " с накладными электронными компонентами и элементами или с технологией накладного монтажа",
+      " Википедия_x000D_"
+    ],
+    "arabic": [
+      "تقنية التثبيت السطحي ، والمختصرة إلى TTS-SMT ، هي طريقة لتصنيع لوحات الدوائر المطبوعة التي يتم فيها استخدام المكونات المثبتة على السطح مباشرة على سطح لوحة الدوائر المطبوعة",
+      " مع المكونات والعناصر الإلكترونية السطحية أو بتقنية تركيب السطح",
+      " Wikipedi_x000D_ "
+    ]
+  },
+  {
+    "title": "Map matching",
+    "conversation": [
+      " Map matching denotes a procedure that assigns geographical objects to locations on a digital map",
+      " The most typical geographical objects are point positions obtained from a positioning system, often a GPS receiver"
+    ],
+    "translation": [
+      "Сопоставление карты — это процедура, при которой географические объекты назначаются местоположениям на цифровой карте",
+      " Наиболее типичными географическими объектами являются положения точек, полученные с помощью системы позиционирования, часто GPS-приемника"
+    ],
+    "arabic": [
+      "تشير مطابقة الخريطة إلى إجراء يقوم بتعيين كائنات جغرافية إلى مواقع على خريطة رقمية",
+      " الكائنات الجغرافية الأكثر شيوعًا هي مواضع النقاط التي تم الحصول عليها من نظام تحديد المواقع ، وغالبًا ما يكون جهاز استقبال GPS"
+    ]
+  },
+  {
+    "title": "Pick up",
+    "conversation": [
+      "A picker is a device that acts as an energy converter that records electronic vibrations, often from a equipped device such as an electric guitar or a bass guitar, and converts electronic vibrations into electrical signals that can inflate, record and broadcast"
+    ],
+    "translation": [
+      "Пикер — это устройство, которое действует как преобразователь энергии, который записывает электронные вибрации, часто от оборудованного устройства, такого как электрогитара или бас-гитара, и преобразует электронные вибрации в электрические сигналы, которые можно надувать, записывать и транслировать"
+    ],
+    "arabic": [
+      "أداة الالتقاط عبارة عن جهاز يعمل كمحول للطاقة يسجل الاهتزازات الإلكترونية ، غالبًا من جهاز مجهز مثل الغيتار الكهربائي أو غيتار باس ، ويحول الاهتزازات الإلكترونية إلى إشارات كهربائية يمكن أن تنتفخ وتسجيل وبث"
+    ]
+  },
+  {
+    "title": "BOM (bill of materials)",
+    "conversation": [
+      "A bill of materials or product structure (sometimes bill of material, BOM or associated list) is a list of the raw materials, sub-assemblies, intermediate assemblies, sub-components, parts, and the quantities of each needed to manufacture an end product",
+      " A BOM may be used for communication between manufacturing partners or confined to a single manufacturing plant",
+      " A bill of materials is often tied to a production order whose issuance may generate reservations for components in the bill of materials that are in stock and requisitions for components that are not in stock",
+      " There are two types of bill materials"
+    ],
+    "translation": [
+      "Спецификация или структура продукта (иногда спецификация, спецификация или связанный список) — это список сырья, узлов, промежуточных узлов, подкомпонентов, деталей и количества каждого из них, необходимого для производства конечного продукта",
+      " Спецификация может использоваться для связи между партнерами-производителями или ограничиваться одним заводом-изготовителем",
+      " Спецификация часто связана с производственным заказом, выдача которого может привести к резервированию компонентов в спецификации, которые есть на складе, и заявок на компоненты, которых нет на складе",
+      " Существует два типа счетных материалов"
+    ],
+    "arabic": [
+      "فاتورة المواد أو هيكل المنتج (أحيانًا قائمة المواد أو قائمة المواد أو القائمة المرتبطة) هي قائمة بالمواد الخام والتجمعات الفرعية والتجمعات الوسيطة والمكونات الفرعية والأجزاء وكميات كل منها اللازمة لتصنيع منتج نهائي ",
+      " يمكن استخدام قائمة مكونات الصنف للتواصل بين شركاء التصنيع أو محصورة في مصنع تصنيع واحد",
+      " غالبًا ما تكون فاتورة المواد مرتبطة بأمر إنتاج قد يؤدي إصداره إلى حجوزات للمكونات الموجودة في فاتورة المواد الموجودة في المخزون وطلبات شراء المكونات غير الموجودة في المخزون",
+      " هناك نوعان من مواد الفاتورة"
+    ]
+  },
+  {
+    "title": "soldering iron",
+    "conversation": [
+      "A soldering iron is a hand tool used to heat solder, usually from an electrical supply at high temperatures above the melting point of the metal alloy",
+      " This allows for the solder to flow between the workpieces needing to be joined"
+    ],
+    "translation": [
+      "Паяльник — это ручной инструмент, используемый для нагрева припоя, обычно от источника питания, при высоких температурах, превышающих точку плавления металлического сплава",
+      " Это позволяет припою течь между соединяемыми деталями"
+    ],
+    "arabic": [
+      "مكواة اللحام هي أداة يدوية تستخدم لتسخين اللحام ، عادةً من مصدر كهربائي عند درجات حرارة عالية أعلى من نقطة انصهار السبائك المعدنية",
+      " هذا يسمح للحام بالتدفق بين قطع العمل التي تحتاج إلى الانضمام"
+    ]
+  },
+  {
+    "title": "Spirit level",
+    "conversation": [
+      "These vials are incompletely filled with a liquid, usually a colored spirit or alcohol, leaving a bubble in the tube",
+      " They have a slight upward curve, so that the bubble naturally rests in the center, the highest point",
+      " At slight inclinations the bubble travels away from the marked center position"
+    ],
+    "translation": [
+      "Эти флаконы не полностью заполнены жидкостью, обычно подкрашенным спиртом или спиртом, в результате чего в трубке остается пузырек",
+      " Они имеют небольшой изгиб вверх, так что пузырь, естественно, находится в центре, в самой высокой точке",
+      " При небольшом наклоне пузырек смещается от отмеченного центрального положения"
+    ],
+    "arabic": [
+      "تمتلئ هذه القوارير بشكل غير كامل بسائل ، عادة ما يكون روحًا ملونة أو كحولًا ، تاركة فقاعة في الأنبوب",
+      " لديهم منحنى صاعد طفيف ، بحيث تستقر الفقاعة بشكل طبيعي في المركز ، أعلى نقطة",
+      " عند الميل الطفيف ، تنتقل الفقاعة بعيدًا عن موضع المركز المحدد"
+    ]
+  },
+  {
+    "title": "Visual Insight",
+    "conversation": [
+      "Visual Insight allows you to quickly create a customized, interactive dashboard that can be used to explore business data",
+      " You can create a Visual Insight dashboard using data in your organization's data warehouse storage, or by quickly importing data from an Excel or other file"
+    ],
+    "translation": [
+      "Visual Insight позволяет быстро создать настраиваемую интерактивную информационную панель, которую можно использовать для изучения бизнес-данных",
+      " Вы можете создать панель мониторинга Visual Insight, используя данные из хранилища данных вашей организации или быстро импортировав данные из Excel или другого файла"
+    ],
+    "arabic": [
+      "يتيح لك Visual Insight إنشاء لوحة معلومات تفاعلية ومخصصة بسرعة يمكن استخدامها لاستكشاف بيانات الأعمال",
+      " يمكنك إنشاء لوحة معلومات Visual Insight باستخدام البيانات الموجودة في مخزن بيانات مؤسستك ، أو عن طريق استيراد البيانات بسرعة من ملف Excel أو ملف آخر"
+    ]
+  },
+  {
+    "title": "Dashboard",
+    "conversation": [
+      "In work-specific computer information systems, the dashboard is a kind of graphical user interface that often provides quick displays of key performance indicators relevant to specific goals or business process",
+      " In another use, \"dashboard\" is another name for \"progress report\" or \"report\" and is considered a form of data visualization"
+    ],
+    "translation": [
+      "В специализированных компьютерных информационных системах информационная панель представляет собой своего рода графический пользовательский интерфейс, который часто обеспечивает быстрое отображение ключевых показателей эффективности, относящихся к конкретным целям или бизнес-процессу",
+      " В другом использовании \"приборная панель\" - это другое название для \"отчета о проделанной работе\" или \"отчета\" и считается формой визуализации данных"
+    ],
+    "arabic": [
+      "في أنظمة معلومات الكمبيوتر الخاصة بالعمل ، تعد لوحة القيادة نوعًا من واجهة المستخدم الرسومية التي توفر غالبًا عروض سريعة لمؤشرات الأداء الرئيسية ذات الصلة بأهداف محددة أو عملية تجارية",
+      " في استخدام آخر ، \"لوحة القيادة \" هو اسم آخر لـ \"تقرير التقدم \" أو \"التقرير \" ويعتبر شكلاً من أشكال تصور البيانات"
+    ]
+  },
+  {
+    "title": "x-axis",
+    "conversation": [
+      "The x-axis is the horizontal plane of a graph in a Cartesian coordinate system, which gives a numerical value to each point along the horizontal x-axis, as well as the vertical y-axis (in a two-dimensional graph)"
+    ],
+    "translation": [
+      "Ось X — это горизонтальная плоскость графика в декартовой системе координат, которая дает числовое значение каждой точке по горизонтальной оси X, а также по вертикальной оси Y (в двумерном графике)"
+    ],
+    "arabic": [
+      "المحور x هو المستوى الأفقي للرسم البياني في نظام الإحداثيات الديكارتية ، والذي يعطي قيمة عددية لكل نقطة على طول المحور x الأفقي ، وكذلك المحور الرأسي y (في الرسم البياني ثنائي الأبعاد)"
+    ]
+  },
+  {
+    "title": "connector's shell",
+    "conversation": [
+      "A connector's shell is the outer casing in which the vital components of the connector, such as the contacts and insert, are housed and protected",
+      " A mated pair consists of two shells: one plug and one receptacle",
+      " Plugs are typically straight or at a 90° angle"
+    ],
+    "translation": [
+      "Оболочка соединителя — это внешний кожух, в котором размещены и защищены жизненно важные компоненты соединителя, такие как контакты и вставка",
+      " Сопряженная пара состоит из двух оболочек: одной вилки и одной розетки",
+      " Вилки обычно прямые или под углом 90°"
+    ],
+    "arabic": [
+      "غلاف الموصل هو الغلاف الخارجي الذي يتم فيه وضع المكونات الحيوية للموصل وحمايتها ، مثل جهات الاتصال والإدخال",
+      " يتكون الزوج المتزاوج من غلافين: سدادة واحدة ووعاء واحد",
+      " عادة ما تكون القوابس مستقيمة أو بزاوية 90 درجة"
+    ]
+  },
+  {
+    "title": "Strain Relief",
+    "conversation": [
+      "What Does Strain Relief Mean? A strain relief is a standard fixture for electrical cables that functions as a feature for relieving the stress from the cable connections themselves to prevent them from breaking"
+    ],
+    "translation": [
+      "Что означает снятие напряжения? Компенсатор натяжения — это стандартное приспособление для электрических кабелей, предназначенное для снятия напряжения с самих кабельных соединений, чтобы предотвратить их разрыв"
+    ],
+    "arabic": [
+      "ماذا يعني تخفيف الإجهاد؟ تخفيف الضغط هو أحد التركيبات القياسية للكابلات الكهربائية التي تعمل كميزة لتخفيف الضغط من توصيلات الكابلات نفسها لمنعها من الانكسار"
+    ]
+  },
+  {
+    "title": "Pull-up resistors",
+    "conversation": [
+      "Pull-up resistors are in general used more often than pull-down resistors, although some microcontroller families have both pull-up and pull-downs available",
+      " They are often used to provide a controlled current flow into a resistive sensor prior to analog to digital conversion of the sensor output voltage signal"
+    ],
+    "translation": [
+      "Подтягивающие резисторы обычно используются чаще, чем подтягивающие резисторы, хотя в некоторых семействах микроконтроллеров доступны как подтягивающие, так и подтягивающие резисторы",
+      " Они часто используются для подачи управляемого тока в резистивный датчик перед аналого-цифровым преобразованием сигнала выходного напряжения датчика"
+    ],
+    "arabic": [
+      "تُستخدم مقاومات السحب بشكل عام أكثر من المقاومات المنسدلة ، على الرغم من أن بعض عائلات وحدات التحكم الدقيقة لديها كل من أدوات السحب والسحب المتاحة",
+      " غالبًا ما تستخدم لتوفير تدفق تيار متحكم فيه إلى مستشعر مقاوم قبل التحويل التناظري إلى الرقمي لإشارة جهد خرج المستشعر"
+    ]
+  },
+  {
+    "title": "Sinusoidal Signals",
+    "conversation": [
+      "Sinusoidal Signals are periodic functions which are based on the sine or cosine function from trigonometry",
+      " – A is the amplitude of the signal and is the scaling factor that determines how large the signal will be",
+      " Since the cosine function varies from -1 to +1 then our signal will vary from –A to +A"
+    ],
+    "translation": [
+      "Синусоидальные сигналы — это периодические функции, основанные на функции синуса или косинуса из тригонометрии",
+      " – A – амплитуда сигнала и коэффициент масштабирования, определяющий, насколько сильным будет сигнал",
+      " Поскольку функция косинуса изменяется от -1 до +1, тогда наш сигнал будет варьироваться от –A до +A"
+    ],
+    "arabic": [
+      "الإشارات الجيبية هي وظائف دورية تعتمد على دالة الجيب أو جيب التمام من حساب المثلثات",
+      " - A هو اتساع الإشارة وهو عامل القياس الذي يحدد حجم الإشارة",
+      " نظرًا لأن وظيفة جيب التمام تختلف من -1 إلى +1 ، فإن إشارتنا ستختلف من –A إلى + A"
+    ]
+  },
+  {
+    "title": "downlink",
+    "conversation": [
+      "In satellite telecommunication, a downlink is the link from a satellite down to one or more ground stations or receivers, and an uplink is the link from a ground station up to a satellite",
+      " Some companies sell uplink and downlink services to television stations, corporations, and to other telecommunication carriers"
+    ],
+    "translation": [
+      "В спутниковой связи нисходящая линия связи — это линия связи от спутника к одной или нескольким наземным станциям или приемникам, а восходящая линия связи — линия связи от наземной станции до спутника",
+      " Некоторые компании продают услуги восходящей и нисходящей линии связи телевизионным станциям, корпорациям и другим операторам связи"
+    ],
+    "arabic": [
+      "في الاتصالات الساتلية ، الوصلة الهابطة هي الرابط من قمر صناعي إلى محطة أو أكثر من المحطات الأرضية أو المستقبلات ، والوصلة الصاعدة هي الوصلة من محطة أرضية إلى قمر صناعي",
+      " تبيع بعض الشركات خدمات الوصلة الصاعدة والهابطة لمحطات التلفزيون والشركات وشركات الاتصالات الأخرى"
+    ]
+  },
+  {
+    "title": "The stop sign",
+    "conversation": [
+      "The stop sign is a sign that is often placed at crossroads, when a road does not have traffic lights",
+      " This sign instructs the drivers to stop when they reach the crossroad and wait for other vehicles to pass",
+      " They can only proceed when the road is clear"
+    ],
+    "translation": [
+      "Знак «Стоп» — это знак, который часто размещают на перекрестках, когда на дороге нет светофора",
+      " Этот знак предписывает водителям остановиться на перекрестке и подождать, пока проедут другие транспортные средства",
+      " Они могут двигаться только тогда, когда дорога свободна"
+    ],
+    "arabic": [
+      "علامة التوقف هي علامة توضع غالبًا عند مفترق طرق ، عندما لا توجد إشارات مرور على الطريق",
+      " ترشد هذه اللافتة السائقين إلى التوقف عند وصولهم إلى مفترق الطرق وانتظار مرور المركبات الأخرى",
+      " يمكنهم المضي قدمًا فقط عندما يكون الطريق خاليًا"
+    ]
+  },
+  {
+    "title": "timers",
+    "conversation": [
+      "These kinds of timers work by delaying the application of power to an electrical load until a specific time has elapsed",
+      " Once the timer has elapsed, the power is applied and remains on until the timer expires",
+      " At this point, power is removed from the load and remains off until power is reapplied"
+    ],
+    "translation": [
+      "Эти типы таймеров работают, задерживая подачу питания на электрическую нагрузку до тех пор, пока не истечет определенное время",
+      " По истечении таймера питание подается и остается включенным, пока не истечет время таймера",
+      " В этот момент питание отключается от нагрузки и остается отключенным до тех пор, пока питание не будет подано снова"
+    ],
+    "arabic": [
+      "تعمل هذه الأنواع من أجهزة ضبط الوقت عن طريق تأخير تطبيق الطاقة على حمل كهربائي حتى انقضاء وقت معين",
+      " بمجرد انقضاء الموقت ، يتم توصيل الطاقة وتظل قيد التشغيل حتى انتهاء صلاحية المؤقت",
+      " في هذه المرحلة ، يتم إزالة الطاقة من التحميل وتظل متوقفة عن التشغيل حتى يتم إعادة توفير الطاقة"
+    ]
+  },
+  {
+    "title": "fossil fuels",
+    "conversation": [
+      "What are fossil fuels? Fossil fuels are formed from the decomposition of buried carbon-based organisms that died millions of years ago",
+      " They create carbon-rich deposits that are extracted and burned for energy",
+      " They are non-renewable and currently supply around 80% of the world's energy"
+    ],
+    "translation": [
+      "Что такое ископаемое топливо? Ископаемое топливо образуется в результате разложения захороненных углеродсодержащих организмов, которые умерли миллионы лет назад",
+      " Они создают богатые углеродом месторождения, которые извлекаются и сжигаются для получения энергии",
+      " Они невозобновляемы и в настоящее время обеспечивают около 80% мировой энергии"
+    ],
+    "arabic": [
+      "ما هو الوقود الاحفوري؟ يتكون الوقود الأحفوري من تحلل الكائنات الحية المدفونة القائمة على الكربون والتي ماتت منذ ملايين السنين",
+      " أنها تخلق رواسب غنية بالكربون يتم استخلاصها وحرقها من أجل الطاقة",
+      " إنها غير قابلة للتجديد وتوفر حاليًا حوالي 80٪ من طاقة العالم"
+    ]
+  },
+  {
+    "title": "gyroscope",
+    "conversation": [
+      "A gyroscope is a device with a spinning disc or wheel mechanism that harnesses the principle of conservation of angular momentum: the tendency for the spin of a system to remain constant unless subjected to external torque"
+    ],
+    "translation": [
+      "Гироскоп – это устройство с вращающимся диском или колесным механизмом, в котором используется принцип сохранения углового момента: тенденция к тому, чтобы вращение системы оставалось постоянным, если на нее не действует внешний крутящий момент"
+    ],
+    "arabic": [
+      "الجيروسكوب عبارة عن جهاز مزود بقرص دوار أو آلية عجلة تسخر مبدأ الحفاظ على الزخم الزاوي: الميل لأن يظل دوران النظام ثابتًا ما لم يتعرض لعزم دوران خارجي"
+    ]
+  },
+  {
+    "title": "dead reckoning",
+    "conversation": [
+      "In navigation, dead reckoning is the process of calculating the current position of a moving object by using a previously determined position, or fix, and incorporating estimates of speed, heading (or direction or course), and elapsed time",
+      " The corresponding term in biology, to describe the processes by which animals update their estimates of position or heading, is path integration"
+    ],
+    "translation": [
+      "В навигации счисление пути - это процесс вычисления текущего положения движущегося объекта с использованием ранее определенного положения или фиксации и включения оценок скорости, курса (или направления или курса) и прошедшего времени",
+      " Соответствующий термин в биологии для описания процессов, с помощью которых животные обновляют свои оценки положения или направления, — это интеграция пути"
+    ],
+    "arabic": [
+      "في التنقل ، الحساب الميت هو عملية حساب الموضع الحالي لجسم متحرك باستخدام موضع محدد مسبقًا ، أو الإصلاح ، ودمج تقديرات السرعة والعنوان (أو الاتجاه أو المسار) والوقت المنقضي",
+      " المصطلح المقابل في علم الأحياء ، لوصف العمليات التي تقوم الحيوانات من خلالها بتحديث تقديراتها للموضع أو العنوان ، هو تكامل المسار"
+    ]
+  },
+  {
+    "title": "Wi-Fi",
+    "conversation": [
+      "Wi-Fi is a family of wireless network protocols based on the IEEE 802",
+      "11 family of standards, which are commonly used for local area networking of devices and Internet access, allowing nearby digital devices to exchange data by radio waves",
+      " These are the most widely used computer networks in the world, used globally in home and small office networks to link devices together and to a wireless router to connect them to the Internet, and in wireless access points in public places like coffee shops, hotels, libraries, and airports to provide visitors with Internet connectivity for their mobile devices"
+    ],
+    "translation": [
+      "Wi-Fi — это семейство протоколов беспроводной сети, основанное на семействе стандартов IEEE 802",
+      "11, которые обычно используются для локальных сетей устройств и доступа в Интернет, позволяя находящимся поблизости цифровым устройствам обмениваться данными с помощью радиоволн",
+      " Это наиболее широко используемые компьютерные сети в мире, используемые во всем мире в домашних сетях и сетях небольших офисов для соединения устройств друг с другом и к беспроводному маршрутизатору для подключения их к Интернету, а также в точках беспроводного доступа в общественных местах, таких как кафе, отели, библиотекам и аэропортам, чтобы предоставить посетителям возможность подключения к Интернету для своих мобильных устройств"
+    ],
+    "arabic": [
+      "Wi-Fi هي عائلة من بروتوكولات الشبكة اللاسلكية تعتمد على مجموعة معايير IEEE 802",
+      "11 ، والتي تُستخدم بشكل شائع لشبكات المنطقة المحلية للأجهزة والوصول إلى الإنترنت ، مما يسمح للأجهزة الرقمية القريبة بتبادل البيانات عن طريق موجات الراديو",
+      " هذه هي شبكات الكمبيوتر الأكثر استخدامًا في العالم ، وتستخدم عالميًا في شبكات المنازل والمكاتب الصغيرة لربط الأجهزة معًا وجهاز توجيه لاسلكي لتوصيلها بالإنترنت ، وفي نقاط الوصول اللاسلكية في الأماكن العامة مثل المقاهي والفنادق ، المكتبات والمطارات لتزويد الزائرين باتصال الإنترنت لأجهزتهم المحمولة"
+    ]
+  },
+  {
+    "title": "frozen account",
+    "conversation": [
+      "A frozen account is a bank or investment account that doesn't allow out-going transactions",
+      " Account freezes are normally the result of a court order, though, in some cases, they may be initiated by the financial institution itself"
+    ],
+    "translation": [
+      "Замороженный счет — это банковский или инвестиционный счет, который не позволяет проводить исходящие транзакции",
+      " Замораживание счета обычно происходит по решению суда, хотя в некоторых случаях оно может быть инициировано самим финансовым учреждением"
+    ],
+    "arabic": [
+      "الحساب المجمد هو حساب مصرفي أو استثمار لا يسمح بالمعاملات الصادرة",
+      " عادة ما يكون تجميد الحساب نتيجة لأمر من المحكمة ، ومع ذلك ، في بعض الحالات ، قد يتم البدء فيه من قبل المؤسسة المالية نفسها"
+    ]
+  },
+  {
+    "title": "An odometer",
+    "conversation": [
+      "An odometer is a device for measuring the distance traveled by a vehicle",
+      " The odometer usually lives in the vehicle's dashboard",
+      " “Odometer” derives from two Greek words meaning “path” and “measure",
+      "” An odometer may be digital or mechanical",
+      " Each cog on a mechanical odometer represents a digit"
+    ],
+    "translation": [
+      "Одометр – это прибор для измерения расстояния, пройденного транспортным средством",
+      " Одометр обычно находится на приборной панели автомобиля",
+      " «Одометр» происходит от двух греческих слов, означающих «путь» и «мера»",
+      " Одометр может быть цифровым или механическим",
+      " Каждая шестеренка на механическом одометре представляет собой цифру"
+    ],
+    "arabic": [
+      "عداد المسافات هو جهاز لقياس المسافة التي تقطعها السيارة",
+      " عادة ما يعيش عداد المسافات في لوحة القيادة في السيارة",
+      " \"عداد المسافات \" مشتق من كلمتين يونانيتين تعنيان \"المسار \" و \"القياس \"",
+      " قد يكون عداد المسافات رقميًا أو ميكانيكيًا",
+      " يمثل كل ترس في عداد المسافات الميكانيكي رقماً"
+    ]
+  },
+  {
+    "title": "push–pull connector",
+    "conversation": [
+      "The push–pull connector is a type of cable interconnect that provides a strong locking mechanism that is only released by squeezing the connector body, thus preventing accidental disconnects"
+    ],
+    "translation": [
+      "Разъем push-pull – это тип кабельного соединения, обеспечивающий надежный механизм блокировки, который освобождается только при сжатии корпуса разъема, что предотвращает случайное отсоединение"
+    ],
+    "arabic": [
+      "يعتبر موصل الدفع والسحب نوعًا من أنواع التوصيلات الكبلية التي توفر آلية قفل قوية يتم تحريرها فقط عن طريق الضغط على جسم الموصل ، وبالتالي منع حالات قطع الاتصال العرضي"
+    ]
+  },
+  {
+    "title": "serial interface",
+    "conversation": [
+      "A serial interface (as distinguished from a parallel interface) is one in which data is sent in a single stream of bits, usually on a single wire-plus-ground, wire-pair, or single wireless channel (or two sets, one for each direction)",
+      " Examples include USB, RS-232, I2C, and 1-Wire"
+    ],
+    "translation": [
+      "Последовательный интерфейс (в отличие от параллельного интерфейса) — это интерфейс, в котором данные передаются в виде единого потока битов, обычно по одному проводу плюс заземление, паре проводов или одному беспроводному каналу (или двум наборам, один для каждое направление)",
+      " Примеры включают USB, RS-232, I2C и 1-Wire"
+    ],
+    "arabic": [
+      "الواجهة التسلسلية (كما تتميز عن الواجهة المتوازية) هي واجهة يتم فيها إرسال البيانات في دفق واحد من البتات ، عادةً على قناة لاسلكية مفردة تحتوي على سلك زائد أرضي أو زوج سلكي أو قناة لاسلكية واحدة (أو مجموعتين ، واحدة من أجل كل اتجاه)",
+      " تتضمن الأمثلة USB و RS-232 و I2C وسلك واحد"
+    ]
+  }
+]

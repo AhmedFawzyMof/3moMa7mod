@@ -1,0 +1,438 @@
+[
+  {
+    "title": "The recovery time objective (RTO)",
+    "conversation": [
+      "The academic definitions are as follows: The recovery time objective (RTO) is the targeted duration of time between the event of failure and the point where operations resume",
+      " A recovery point objective (RPO) is the maximum length of time permitted that data can be restored from, which may or may not mean data loss"
+    ],
+    "translation": [
+      "Les définitions académiques sont les suivantes : L'objectif de temps de récupération (RTO) est la durée ciblée entre l'événement de défaillance et le point de reprise des opérations",
+      " Un objectif de point de récupération (RPO) est la durée maximale autorisée à partir de laquelle les données peuvent être restaurées, ce qui peut signifier ou non une perte de données"
+    ],
+    "arabic": [
+      "التعريفات الأكاديمية هي كما يلي: هدف وقت الاسترداد (RTO) هو المدة الزمنية المستهدفة بين حدث الفشل والنقطة التي تستأنف فيها العمليات",
+      " هدف نقطة الاسترداد (RPO) هو أقصى طول للوقت المسموح به لاستعادة البيانات منه ، والذي قد يعني أو لا يعني فقدان البيانات"
+    ]
+  },
+  {
+    "title": "Intelligent edge",
+    "conversation": [
+      "Intelligent edge refers to the analysis of data and development of solutions at the site where the data is generated",
+      " By doing this, intelligent edge reduces latency, costs, and security risks, thus making the associated business more efficient"
+    ],
+    "translation": [
+      "La périphérie intelligente fait référence à l'analyse des données et au développement de solutions sur le site où les données sont générées",
+      " Ainsi, la périphérie intelligente réduit la latence, les coûts et les risques de sécurité, ce qui rend l'entreprise associée plus efficace"
+    ],
+    "arabic": [
+      "تشير الحافة الذكية إلى تحليل البيانات وتطوير الحلول في الموقع الذي يتم فيه إنشاء البيانات",
+      " من خلال القيام بذلك ، تعمل الحافة الذكية على تقليل زمن الوصول والتكاليف ومخاطر الأمان ، مما يجعل الأعمال المرتبطة أكثر كفاءة"
+    ]
+  },
+  {
+    "title": "Bus termination",
+    "conversation": [
+      "Bus termination is done by external resistors placed at both end points of the network",
+      " CAN bus topology with the CAN master placed somewhere in between the network: Bus termination by this example is done by external resistors placed at both end points of the network"
+    ],
+    "translation": [
+      "La terminaison du bus est réalisée par des résistances externes placées aux deux extrémités du réseau",
+      " Topologie du bus CAN avec le maître CAN placé quelque part entre le réseau : la terminaison du bus dans cet exemple est effectuée par des résistances externes placées aux deux extrémités du réseau"
+    ],
+    "arabic": [
+      "يتم إنهاء الناقل بواسطة مقاومات خارجية موضوعة في نقطتي طرفي الشبكة",
+      " طوبولوجيا ناقل CAN مع وضع CAN master في مكان ما بين الشبكة: يتم إنهاء الناقل بواسطة هذا المثال بواسطة مقاومات خارجية موضوعة في كلا نقطتي نهاية الشبكة"
+    ]
+  },
+  {
+    "title": "Mechanical strain",
+    "conversation": [
+      "Mechanical strain is a geometric measure of deformation representing the relative displacement between particles in a material body",
+      " Strain is caused by external constraints or loads",
+      " There are two types of strain: elastic and plastic"
+    ],
+    "translation": [
+      "La déformation mécanique est une mesure géométrique de la déformation représentant le déplacement relatif entre les particules dans un corps de matériau",
+      " La déformation est causée par des contraintes ou des charges externes",
+      " Il existe deux types de contraintes : élastiques et plastiques"
+    ],
+    "arabic": [
+      "الإجهاد الميكانيكي هو مقياس هندسي للتشوه يمثل الإزاحة النسبية بين الجسيمات في جسم مادي",
+      " الإجهاد ناتج عن قيود أو أحمال خارجية",
+      " هناك نوعان من الإجهاد: مرن وبلاستيك"
+    ]
+  },
+  {
+    "title": "weighted average",
+    "conversation": [
+      "Calculating the weighted average involves multiplying each data point by its weight and summing those products",
+      " Then sum the weights for all data points",
+      " Finally, divide the weight*value products by the sum of the weights",
+      " Voila, you've calculated the weighted mean!"
+    ],
+    "translation": [
+      "Le calcul de la moyenne pondérée consiste à multiplier chaque point de données par son poids et à additionner ces produits",
+      " Additionnez ensuite les poids de tous les points de données",
+      " Enfin, divisez les produits poids*valeur par la somme des poids",
+      " Voilà, vous avez calculé la moyenne pondérée !"
+    ],
+    "arabic": [
+      "يتضمن حساب المتوسط المرجح ضرب كل نقطة بيانات بوزنها وجمع تلك المنتجات",
+      " ثم جمع أوزان جميع نقاط البيانات",
+      " أخيرًا ، قسّم منتجات الوزن * القيمة على مجموع الأوزان",
+      " فويلا ، لقد حسبت المتوسط المرجح!"
+    ]
+  },
+  {
+    "title": "tram",
+    "conversation": [
+      "A tram (called a streetcar or trolley in North America) is a rail vehicle that travels on tramway tracks on public urban streets; some include segments on segregated right-of-way",
+      "[1][2][3] The tramlines or networks operated as public transport are called tramways or simply trams/streetcars",
+      " Many recently built tramways use the contemporary term light rail",
+      " The vehicles are called streetcars or trolleys (not to be confused with trolleybus) in North America and trams or tramcars elsewhere"
+    ],
+    "translation": [
+      "Un tramway (appelé tramway ou trolley en Amérique du Nord) est un véhicule ferroviaire qui circule sur des voies de tramway dans les rues urbaines publiques ; certains incluent des segments sur des emprises séparées",
+      "[1][2][3] Les lignes ou réseaux de tramway exploités en transport public sont appelés tramways ou simplement tramways/tramways",
+      " De nombreux tramways récemment construits utilisent le terme contemporain de métro léger",
+      " Les véhicules sont appelés tramways ou trolleys (à ne pas confondre avec trolleybus) en Amérique du Nord et tramways ou tramways ailleurs"
+    ],
+    "arabic": [
+      "الترام (يسمى الترام أو الترولي في أمريكا الشمالية) عبارة عن عربة سكة حديد تسافر على مسارات الترام في الشوارع الحضرية العامة ؛ يشتمل بعضها على مقاطع على حق الطريق المنفصل",
+      " [1] [2] [3] تسمى خطوط الترام أو الشبكات التي تعمل كوسائل نقل عام خطوط الترام أو ببساطة ترام / ترام",
+      " تستخدم العديد من خطوط الترام التي تم بناؤها مؤخرًا المصطلح المعاصر للسكك الحديدية الخفيفة",
+      " تسمى المركبات بعربات الترام أو عربات الترام (يجب عدم الخلط بينها وبين عربات الترولي باص) في أمريكا الشمالية وعربات الترام أو الترام في أماكن أخرى"
+    ]
+  },
+  {
+    "title": "FAKRA",
+    "conversation": [
+      "FAKRA is based on the SMB connector technology from the family of connectors for coaxial cables in the high-frequency range",
+      " The abbreviation SMB stands for Sub-Minature-B",
+      " SMB connectors for mostly device-internal connections are used for frequencies up to 6 GHz"
+    ],
+    "translation": [
+      "FAKRA est basé sur la technologie de connecteur SMB de la famille des connecteurs pour câbles coaxiaux dans la gamme des hautes fréquences",
+      " L'abréviation SMB signifie Sub-Minature-B",
+      " Les connecteurs SMB pour la plupart des connexions internes à l'appareil sont utilisés pour les fréquences jusqu'à 6 GHz"
+    ],
+    "arabic": [
+      "يعتمد FAKRA على تقنية موصل SMB من عائلة الموصلات للكابلات المحورية في نطاق التردد العالي",
+      " يشير الاختصار SMB إلى Sub-Minature-B",
+      " تُستخدم موصلات SMB في الغالب للاتصالات الداخلية للجهاز للترددات التي تصل إلى 6 جيجاهرتز"
+    ]
+  },
+  {
+    "title": "antennas",
+    "conversation": [
+      "These antennas help improve the 4G/LTE signal",
+      " This is especially useful for IoT devices",
+      " These 4G antennas work with the technology known as MIMO",
+      " MIMO stands for Multiple Input Multiple Output and ensures that its modem works with two separate antennas"
+    ],
+    "translation": [
+      "Ces antennes contribuent à améliorer le signal 4G/LTE",
+      " Ceci est particulièrement utile pour les appareils IoT",
+      " Ces antennes 4G fonctionnent avec la technologie connue sous le nom de MIMO",
+      " MIMO signifie Multiple Input Multiple Output et garantit que son modem fonctionne avec deux antennes distinctes"
+    ],
+    "arabic": [
+      "تساعد هذه الهوائيات في تحسين إشارة 4G / LTE",
+      " هذا مفيد بشكل خاص لأجهزة إنترنت الأشياء",
+      " تعمل هوائيات 4G هذه مع التكنولوجيا المعروفة باسم MIMO",
+      " يرمز MIMO إلى عدة مخرجات متعددة المدخلات ويضمن عمل المودم الخاص به مع هوائيين منفصلين"
+    ]
+  },
+  {
+    "title": "scratch partition",
+    "conversation": [
+      "The scratch partition is a 4 GB VFAT partition used for storing temporary data, including logs, diagnostic information, and system swap"
+    ],
+    "translation": [
+      "La partition de travail est une partition VFAT de 4 Go utilisée pour stocker des données temporaires, notamment des journaux, des informations de diagnostic et un échange système"
+    ],
+    "arabic": [
+      "قسم التسويد هو قسم VFAT بسعة 4 غيغابايت يُستخدم لتخزين البيانات المؤقتة ، بما في ذلك السجلات ومعلومات التشخيص وتبادل النظام"
+    ]
+  },
+  {
+    "title": "square wave",
+    "conversation": [
+      "A square wave is a non-sinusoidal periodic waveform in which the amplitude alternates at a steady frequency between fixed minimum and maximum values, with the same duration at minimum and maximum",
+      " In an ideal square wave, the transitions between minimum and maximum are instantaneous"
+    ],
+    "translation": [
+      "Une onde carrée est une forme d'onde périodique non sinusoïdale dans laquelle l'amplitude alterne à une fréquence constante entre des valeurs minimales et maximales fixes, avec la même durée au minimum et au maximum",
+      " Dans une onde carrée idéale, les transitions entre le minimum et le maximum sont instantanées"
+    ],
+    "arabic": [
+      "الموجة المربعة هي شكل موجي دوري غير جيبي يتناوب فيه السعة بتردد ثابت بين القيم الدنيا والقصوى الثابتة ، مع نفس المدة عند الحد الأدنى والحد الأقصى",
+      " في الموجة المربعة المثالية ، تكون الانتقالات بين الحد الأدنى والحد الأقصى لحظية"
+    ]
+  },
+  {
+    "title": "The pulse width",
+    "conversation": [
+      "The pulse width is the duration of the on state",
+      " The duty cycle is the ratio of the pulse width to the pulse period",
+      " The duty cycle for a rectangular pulse describes the fraction of time that the pulse is on in one pulse period"
+    ],
+    "translation": [
+      "La largeur d'impulsion est la durée de l'état activé",
+      " Le rapport cyclique est le rapport de la largeur d'impulsion à la période d'impulsion",
+      " Le rapport cyclique d'une impulsion rectangulaire décrit la fraction de temps pendant laquelle l'impulsion est active dans une période d'impulsion"
+    ],
+    "arabic": [
+      "عرض النبض هو مدة حالة التشغيل",
+      " دورة العمل هي نسبة عرض النبضة إلى فترة النبضة",
+      " تصف دورة العمل للنبضة المستطيلة جزء الوقت الذي تعمل فيه النبضة في فترة نبضة واحدة"
+    ]
+  },
+  {
+    "title": "pulse generator",
+    "conversation": [
+      "What is a pulse generator? Pulse generators are electrical test equipment used to generate pulses that are injected into devices under test in order to study the behaviour of these devises",
+      " Pulse generators are used to provide pulses for use in various electronic applications"
+    ],
+    "translation": [
+      "Qu'est-ce qu'un générateur d'impulsions ? Les générateurs d'impulsions sont des équipements de test électrique utilisés pour générer des impulsions qui sont injectées dans des appareils testés afin d'étudier le comportement de ces appareils",
+      " Les générateurs d'impulsions sont utilisés pour fournir des impulsions à utiliser dans diverses applications électroniques"
+    ],
+    "arabic": [
+      "ما هو مولد النبض؟ مولدات النبض هي معدات اختبار كهربائية تُستخدم لتوليد نبضات يتم حقنها في الأجهزة قيد الاختبار من أجل دراسة سلوك هذه الأجهزة",
+      " تُستخدم مولدات النبض لتوفير نبضات لاستخدامها في تطبيقات إلكترونية متنوعة"
+    ]
+  },
+  {
+    "title": "Automatic gain control (AGC)",
+    "conversation": [
+      "Automatic gain control (AGC) is a closed-loop feedback regulating circuit in an amplifier or chain of amplifiers, the purpose of which is to maintain a suitable signal amplitude at its output, despite variation of the signal amplitude at the input",
+      " The average or peak output signal level is used to dynamically adjust the gain of the amplifiers, enabling the circuit to work satisfactorily with a greater range of input signal levels",
+      " It is used in most radio receivers to equalize the average volume (loudness) of different radio stations due to differences in received signal strength, as well as variations in a single station's radio signal due to fading"
+    ],
+    "translation": [
+      "Le contrôle automatique de gain (AGC) est un circuit de régulation de rétroaction en boucle fermée dans un amplificateur ou une chaîne d'amplificateurs, dont le but est de maintenir une amplitude de signal appropriée à sa sortie, malgré la variation de l'amplitude du signal à l'entrée",
+      " Le niveau de signal de sortie moyen ou de crête est utilisé pour ajuster dynamiquement le gain des amplificateurs, permettant au circuit de fonctionner de manière satisfaisante avec une plus grande plage de niveaux de signal d'entrée",
+      " Il est utilisé dans la plupart des récepteurs radio pour égaliser le volume moyen (intensité) de différentes stations de radio en raison des différences de puissance du signal reçu, ainsi que des variations du signal radio d'une seule station en raison de l'évanouissement"
+    ],
+    "arabic": [
+      "التحكم التلقائي في الكسب (AGC) عبارة عن دائرة تنظيم ردود الفعل ذات الحلقة المغلقة في مكبر أو سلسلة من المضخمات ، والغرض منها هو الحفاظ على سعة إشارة مناسبة عند خرجها ، على الرغم من اختلاف اتساع الإشارة عند الإدخال",
+      " يتم استخدام مستوى إشارة الخرج المتوسط أو الذروة لضبط كسب مكبرات الصوت ديناميكيًا ، مما يتيح للدائرة العمل بشكل مرض مع نطاق أكبر من مستويات إشارة الإدخال",
+      " يتم استخدامه في معظم أجهزة استقبال الراديو لموازنة متوسط حجم (جهارة الصوت) لمحطات الراديو المختلفة بسبب الاختلافات في قوة الإشارة المستقبلة ، وكذلك الاختلافات في إشارة الراديو لمحطة واحدة بسبب الخبو"
+    ]
+  },
+  {
+    "title": "Automatic gain control (AGC)",
+    "conversation": [
+      "Without AGC the sound emitted from an AM radio receiver would vary to an extreme extent from a weak to a strong signal; the AGC effectively reduces the volume if the signal is strong and raises it when it is weaker",
+      " In a typical receiver the AGC feedback control signal is usually taken from the detector stage and applied to control the gain of the IF or RF amplifier stages"
+    ],
+    "translation": [
+      "Sans AGC, le son émis par un récepteur radio AM varierait dans une mesure extrême d'un signal faible à un signal fort; l'AGC réduit efficacement le volume si le signal est fort et l'augmente lorsqu'il est plus faible",
+      " Dans un récepteur typique, le signal de commande de rétroaction AGC est généralement prélevé sur l'étage du détecteur et appliqué pour contrôler le gain des étages d'amplification IF ou RF"
+    ],
+    "arabic": [
+      "بدون AGC ، فإن الصوت المنبعث من جهاز استقبال راديو AM قد يختلف إلى حد كبير من إشارة ضعيفة إلى قوية ؛ يقلل AGC من حجم الصوت بشكل فعال إذا كانت الإشارة قوية ويرفعها عندما تكون أضعف",
+      " في جهاز استقبال نموذجي ، عادة ما تؤخذ إشارة التحكم في التغذية المرتدة AGC من مرحلة الكاشف ويتم تطبيقها للتحكم في كسب مراحل مكبرات الصوت IF أو RF"
+    ]
+  },
+  {
+    "title": "Short-Circuit Proof",
+    "conversation": [
+      "(also: short-circuit protection) Sensors with clocked or thermic short-circuit protection are protected against overloading of the output stage by suitable electronic switching",
+      " The release current of the short-circuit protection is higher than the rated operating current Ie"
+    ],
+    "translation": [
+      "(également : protection contre les courts-circuits) Les capteurs avec protection contre les courts-circuits cadencés ou thermiques sont protégés contre les surcharges de l'étage de sortie par une commutation électronique appropriée",
+      " Le courant de déclenchement de la protection contre les courts-circuits est supérieur au courant de fonctionnement nominal Ie"
+    ],
+    "arabic": [
+      "(أيضًا: حماية ماس كهربائى) المستشعرات المزودة بحماية دارة قصيرة مسجلة أو حرارية محمية ضد التحميل الزائد لمرحلة الإخراج عن طريق التبديل الإلكتروني المناسب",
+      " تيار تحرير حماية الدائرة القصيرة أعلى من تيار التشغيل المقدر"
+    ]
+  },
+  {
+    "title": "Deutsche Institut fur Normung",
+    "conversation": [
+      "A DIN rail is a metal rail of a standard type widely used for mounting circuit breakers and industrial control equipment inside equipment racks",
+      " These products are typically made from cold rolled carbon steel sheet with a zinc-plated or chromated bright surface finish",
+      " Although metallic, they are meant only for mechanical support and are not used as a busbar to conduct electric current, though they may provide a chassis grounding connection"
+    ],
+    "translation": [
+      "Un rail DIN est un rail métallique d'un type standard largement utilisé pour le montage de disjoncteurs et d'équipements de contrôle industriels à l'intérieur de racks d'équipements",
+      " Ces produits sont généralement fabriqués à partir de tôles d'acier au carbone laminées à froid avec une finition de surface brillante zinguée ou chromée",
+      " Bien qu'ils soient métalliques, ils sont destinés uniquement à un support mécanique et ne sont pas utilisés comme jeu de barres pour conduire le courant électrique, bien qu'ils puissent fournir une connexion de mise à la terre du châssis"
+    ],
+    "arabic": [
+      "سكة DIN عبارة عن سكة معدنية من النوع القياسي تستخدم على نطاق واسع لتركيب قواطع الدائرة ومعدات التحكم الصناعية داخل رفوف المعدات",
+      " تصنع هذه المنتجات عادةً من صفائح الفولاذ الكربوني المدرفلة على البارد مع سطح لامع مطلي بالزنك أو مطلي بالكروم",
+      " على الرغم من أنها معدنية ، إلا أنها مخصصة للدعم الميكانيكي فقط ولا تستخدم كقضيب توصيل لتوصيل التيار الكهربائي ، على الرغم من أنها قد توفر اتصال تأريض للهيكل"
+    ]
+  },
+  {
+    "title": "patch cable",
+    "conversation": [
+      "A patch cable connects two electronic or optical devices to each other for signal routing",
+      " This is usually for network applications, to “patch” a signal from one hub, switch, or router to another hub, switch, or router"
+    ],
+    "translation": [
+      "Un câble de raccordement relie deux appareils électroniques ou optiques l'un à l'autre pour le routage du signal",
+      " C'est généralement pour les applications réseau, pour 'patcher' un signal d'un concentrateur, commutateur ou routeur à un autre concentrateur, commutateur ou routeur"
+    ],
+    "arabic": [
+      "يقوم كبل التصحيح بتوصيل جهازين إلكترونيين أو بصريين ببعضهما البعض لتوجيه الإشارة",
+      " عادةً ما يكون هذا لتطبيقات الشبكة ، من أجل 'تصحيح' إشارة من مركز أو مفتاح أو جهاز توجيه إلى محور أو محول أو جهاز توجيه آخر"
+    ]
+  },
+  {
+    "title": "A patch cable",
+    "conversation": [
+      "A patch cable, patch cord or plug cord is an electrical or optical cable used to connect an electronic or optical device to another to guide the signal",
+      " Devices of different types are associated with patch cables",
+      " Patch cables are usually produced in many different colors so that they can be easily distinguished from each other"
+    ],
+    "translation": [
+      "Un câble de raccordement, un cordon de raccordement ou un cordon de prise est un câble électrique ou optique utilisé pour connecter un appareil électronique ou optique à un autre pour guider le signal",
+      " Des appareils de différents types sont associés à des câbles de brassage",
+      " Les câbles patch sont généralement produits dans de nombreuses couleurs différentes afin qu'ils puissent être facilement distingués les uns des autres"
+    ],
+    "arabic": [
+      "كبل التصحيح أو سلك التصحيح أو سلك التوصيل هو كبل كهربائي أو بصري يستخدم لتوصيل جهاز إلكتروني أو بصري بآخر لتوجيه الإشارة",
+      " ترتبط الأجهزة من أنواع مختلفة بكابلات التصحيح",
+      " عادة ما يتم إنتاج كبلات التوصيل بألوان مختلفة بحيث يمكن تمييزها بسهولة عن بعضها البعض"
+    ]
+  },
+  {
+    "title": "A farad",
+    "conversation": [
+      "A farad is one of the units of the international system named after the scientist Michael Faraday, and a farad is the capacitance of a capacitor between two levels of infinite length, the distance between them is 1 meter, and the potential difference between its two ends is 1 volt, or it is the electrical capacity of a conductor if it gives a charge of 1 coulomb, its voltage changes by 1 volt"
+    ],
+    "translation": [
+      "Un farad est l'une des unités du système international nommé d'après le scientifique Michael Faraday, et un farad est la capacité d'un condensateur entre deux niveaux de longueur infinie, la distance entre eux est de 1 mètre et la différence de potentiel entre ses deux extrémités est de 1 volt, ou c'est la capacité électrique d'un conducteur s'il donne une charge de 1 coulomb, sa tension change de 1 volt"
+    ],
+    "arabic": [
+      "الفاراد هي إحدى وحدات النظام الدولي التي سميت على اسم العالم مايكل فاراداي ، والفاراد هي سعة مكثف بين مستويين من الطول اللانهائي ، والمسافة بينهما متر واحد ، وفرق الجهد بين طرفيه",
+      " 1 فولت ، أو السعة الكهربائية للموصل إذا أعطى شحنة 1 كولوم ، يتغير جهده بمقدار 1 فولت "
+    ]
+  },
+  {
+    "title": "MIMO",
+    "conversation": [
+      "Multiple-Input Multiple-Output (MIMO) is a wireless technology that uses multiple transmitters and receivers to transfer more data at the same time",
+      " All wireless products with 802",
+      "11n support MIMO",
+      " The technology helps allow 802",
+      "11n to reach higher speeds than products without 802 11n"
+    ],
+    "translation": [
+      "Multiple-Input Multiple-Output (MIMO) est une technologie sans fil qui utilise plusieurs émetteurs et récepteurs pour transférer plus de données en même temps",
+      " Tous les produits sans fil avec 802",
+      "11n prennent en charge MIMO",
+      " La technologie permet au 802",
+      "11n d'atteindre des vitesses plus élevées que les produits sans 802 11n"
+    ],
+    "arabic": [
+      "متعددة المدخلات ومخرجات متعددة (MIMO) هي تقنية لاسلكية تستخدم أجهزة إرسال واستقبال متعددة لنقل المزيد من البيانات في نفس الوقت",
+      " جميع المنتجات اللاسلكية مع 802",
+      "11n تدعم MIMO",
+      " تساعد التقنية على السماح لـ 802",
+      "11n بالوصول إلى سرعات أعلى من المنتجات التي لا تحتوي على 802 11n"
+    ]
+  },
+  {
+    "title": "Attenuation",
+    "conversation": [
+      "Attenuation is a general term that refers to any reduction in the strength of a signal",
+      " Attenuation occurs with any type of signal, whether digital or analog",
+      " Sometimes called loss, attenuation is a natural consequence of signal transmission over long distances"
+    ],
+    "translation": [
+      "L'atténuation est un terme général qui fait référence à toute réduction de la force d'un signal",
+      " L'atténuation se produit avec tout type de signal, qu'il soit numérique ou analogique",
+      " Parfois appelée perte, l'atténuation est une conséquence naturelle de la transmission du signal sur de longues distances"
+    ],
+    "arabic": [
+      "التوهين هو مصطلح عام يشير إلى أي انخفاض في قوة الإشارة",
+      " يحدث التوهين مع أي نوع من الإشارات ، سواء كانت رقمية أو تمثيلية",
+      " يُطلق عليه أحيانًا اسم الخسارة ، ويعتبر التوهين نتيجة طبيعية لإرسال الإشارة عبر مسافات طويلة"
+    ]
+  },
+  {
+    "title": "GPRS",
+    "conversation": [
+      "What is GPRS (General Packet Radio Services)? General Packet Radio Services (GPRS) is a best-effort packet-switching protocol for wireless and cellular network communication services",
+      " It is considered best effort because all packets are given the same priority and the delivery of packets isn't guaranteed"
+    ],
+    "translation": [
+      "Qu'est-ce que le GPRS (General Packet Radio Services) ? General Packet Radio Services (GPRS) est un protocole de commutation de paquets au mieux pour les services de communication de réseau sans fil et cellulaire",
+      " Cela est considéré comme le meilleur effort car tous les paquets ont la même priorité et la livraison des paquets n'est pas garantie"
+    ],
+    "arabic": [
+      "ما هي خدمة حزمة الراديو العامة (GPRS)؟ تُعد خدمات حزم الراديو العامة (GPRS) بروتوكولًا يبذل قصارى جهده لتبديل حزم البيانات لخدمات اتصالات الشبكة اللاسلكية والخلوية",
+      " يعتبر أفضل جهد لأنه يتم إعطاء نفس الأولوية لكافة الحزم ولا يتم ضمان تسليم الحزم"
+    ]
+  },
+  {
+    "title": "Ground-penetrating radar (GPR)",
+    "conversation": [
+      "The Earth measurement radar is mainly used to detect the Earth's subsoil by sending pulses to the Earth's subsoil and gives two-and-three-dimensional images",
+      " It is used to detect metals and spaces and detect archaeological treasures"
+    ],
+    "translation": [
+      "Le radar de mesure de la Terre est principalement utilisé pour détecter le sous-sol terrestre en envoyant des impulsions au sous-sol terrestre et donne des images en deux et trois dimensions",
+      " Il est utilisé pour détecter les métaux et les espaces et détecter les trésors archéologiques"
+    ],
+    "arabic": [
+      "يستخدم رادار قياس الأرض بشكل أساسي للكشف عن باطن الأرض عن طريق إرسال نبضات إلى باطن الأرض ويعطي صورًا ثنائية وثلاثية الأبعاد",
+      " يستخدم لكشف المعادن والفراغات والكشف عن الكنوز الأثرية"
+    ]
+  },
+  {
+    "title": " gold capacitor",
+    "conversation": [
+      "Panasonic Electric Double Layer Capacitors, known as “Gold Capacitors”, offer the highest volumetric efficiency of all capacitor technologies",
+      " They are often compared to secondary batteries",
+      " Unlike Batteries, Gold Capacitors do not rely on a chemical reaction to produce electric current"
+    ],
+    "translation": [
+      "Les condensateurs électriques à double couche de Panasonic, connus sous le nom de « condensateurs en or », offrent le rendement volumétrique le plus élevé de toutes les technologies de condensateurs",
+      " Elles sont souvent comparées à des batteries secondaires",
+      " Contrairement aux batteries, les condensateurs en or ne dépendent pas d'une réaction chimique pour produire du courant électrique"
+    ],
+    "arabic": [
+      "تقدم مكثفات باناسونيك الكهربائية مزدوجة الطبقة ، والمعروفة باسم 'المكثفات الذهبية' ، أعلى كفاءة حجمية لجميع تقنيات المكثفات",
+      " غالبًا ما تتم مقارنتها بالبطاريات الثانوية",
+      " على عكس البطاريات ، لا تعتمد المكثفات الذهبية على تفاعل كيميائي لإنتاج تيار كهربائي"
+    ]
+  },
+  {
+    "title": "ASCII",
+    "conversation": [
+      "What is ASCII? ASCII (American Standard Code for Information Interchange) is the most common character encoding format for text data in computers and on the internet",
+      " In standard ASCII-encoded data, there are unique values for 128 alphabetic, numeric or special additional characters and control codes"
+    ],
+    "translation": [
+      "Qu'est-ce que l'ASCII ? ASCII (American Standard Code for Information Interchange) est le format de codage de caractères le plus courant pour les données textuelles dans les ordinateurs et sur Internet",
+      " Dans les données codées en ASCII standard, il existe des valeurs uniques pour 128 caractères alphabétiques, numériques ou spéciaux supplémentaires et codes de contrôle"
+    ],
+    "arabic": [
+      "ما هو ASCII؟ ASCII (الكود القياسي الأمريكي لتبادل المعلومات) هو تنسيق ترميز الأحرف الأكثر شيوعًا للبيانات النصية في أجهزة الكمبيوتر وعلى الإنترنت",
+      " في البيانات القياسية بترميز ASCII ، توجد قيم فريدة لـ 128 حرفًا أبجديًا أو رقميًا أو خاصًا إضافيًا ورموز التحكم"
+    ]
+  },
+  {
+    "title": "rack diagram layout",
+    "conversation": [
+      "A rack diagram, also known as a rack elevation, is a visual representation of the organization of IT equipment within a server rack used to track and manage data center assets",
+      " Data Center Infrastructure Management (DCIM) software is used to automatically create rack elevation diagrams"
+    ],
+    "translation": [
+      "Un diagramme de rack, également appelé élévation de rack, est une représentation visuelle de l'organisation de l'équipement informatique dans un rack de serveur utilisé pour suivre et gérer les actifs du centre de données",
+      " Le logiciel DCIM (Data Center Infrastructure Management) est utilisé pour créer automatiquement des diagrammes d'élévation de rack"
+    ],
+    "arabic": [
+      "مخطط الحامل ، المعروف أيضًا باسم ارتفاع الحامل ، هو تمثيل مرئي لتنظيم معدات تكنولوجيا المعلومات داخل حامل خادم يستخدم لتتبع وإدارة أصول مركز البيانات",
+      " يتم استخدام برنامج إدارة البنية التحتية لمركز البيانات (DCIM) لإنشاء مخططات ارتفاع الحامل تلقائيًا"
+    ]
+  }
+]

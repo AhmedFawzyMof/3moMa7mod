@@ -1,0 +1,491 @@
+[
+  {
+    "title": "self-hold circuit\n",
+    "conversation": [
+      "A “self-hold circuit” refers to an operation circuit that bypasses signals arriving from an external relay or other device by means of the contact of the relay itself"
+    ],
+    "translation": [
+      "“自保持电路”是指通过继电器本身的触点旁路来自外部继电器或其他设备的信号的操作电路"
+    ],
+    "arabic": [
+      "تشير \"دائرة الانتظار الذاتي\" إلى دائرة التشغيل التي تتجاوز الإشارات الواردة من مرحل خارجي أو جهاز آخر عن طريق اتصال المرحل نفسه"
+    ]
+  },
+  {
+    "title": "sleep mode\n",
+    "conversation": [
+      " In sleep mode, the computer enters a low-power state",
+      " The computer's state is kept in memory, but other parts of the computer are shut down and won't use any power",
+      " When you turn on the computer, it snaps back to life quickly—you won't have to wait for it to boot up"
+    ],
+    "translation": [
+      "在睡眠模式下，计算机进入低功耗状态",
+      " 计算机的状态保存在内存中，但计算机的其他部分关闭并且不会使用任何电源",
+      " 当您打开计算机时，它很快就会恢复正常 — 您无需等待它启动"
+    ],
+    "arabic": [
+      "في وضع السكون ، يدخل الكمبيوتر في حالة طاقة منخفضة",
+      " يتم الاحتفاظ بحالة الكمبيوتر في الذاكرة ، ولكن يتم إيقاف تشغيل أجزاء أخرى من الكمبيوتر ولن تستخدم أي طاقة",
+      " عندما تقوم بتشغيل الكمبيوتر ، فإنه يعود إلى الحياة بسرعة - لن تضطر إلى الانتظار حتى يتم التمهيد"
+    ]
+  },
+  {
+    "title": "Power over Ethernet, or PoE\n",
+    "conversation": [
+      "Power over Ethernet, or PoE, describes any of several standards or ad hoc systems that pass electric power along with data on twisted-pair Ethernet cabling"
+    ],
+    "translation": [
+      "以太网供电 (PoE) 描述了在双绞线以太网布线上传输电力和数据的多种标准或临时系统中的任何一种"
+    ],
+    "arabic": [
+      "يصف Power over Ethernet ، أو PoE ، أيًا من المعايير المتعددة أو الأنظمة المخصصة التي تمرر الطاقة الكهربائية مع البيانات الموجودة على كبلات Ethernet المزدوجة المجدولة"
+    ]
+  },
+  {
+    "title": "FBX files\n",
+    "conversation": [
+      "FBX files are a versatile way to transfer data between different 3D software programs",
+      " While each program has its file format, FBX is a common format that most major 3D software programs can read",
+      " Remember that the data in an FBX file include geometry, materials, textures, lighting, and animation data"
+    ],
+    "translation": [
+      "FBX 文件是在不同 3D 软件程序之间传输数据的通用方法",
+      " 虽然每个程序都有其文件格式，但 FBX 是大多数主要 3D 软件程序都可以读取的通用格式",
+      " 请记住，FBX 文件中的数据包括几何体、材质、纹理、照明和动画数据"
+    ],
+    "arabic": [
+      "تعد ملفات FBX طريقة متعددة الاستخدامات لنقل البيانات بين برامج ثلاثية الأبعاد مختلفة",
+      " بينما يحتوي كل برنامج على تنسيق ملف خاص به ، فإن FBX هو تنسيق شائع يمكن لمعظم البرامج ثلاثية الأبعاد الرئيسية قراءته",
+      " تذكر أن البيانات الموجودة في ملف FBX تتضمن بيانات الهندسة والمواد والأنسجة والإضاءة والرسوم المتحركة"
+    ]
+  },
+  {
+    "title": "GGB file\n",
+    "conversation": [
+      "A ",
+      " GGB file is a GeoGebra Worksheet file",
+      " The ",
+      " ggb file extension is used for a data file format that was developed by the GeoGebra Team for one of their software products",
+      " Known as GeoGebra document files, the GGB file format is used for the default document output file of the GeoGebra educational software"
+    ],
+    "translation": [
+      "A ",
+      " GGB 文件是 GeoGebra 工作表文件",
+      " 这 ",
+      " ggb 文件扩展名用于由 GeoGebra 团队为其软件产品之一开发的数据文件格式",
+      " GGB 文件格式称为 GeoGebra 文档文件，用于 GeoGebra 教育软件的默认文档输出文件"
+    ],
+    "arabic": [
+      "أ ",
+      " ملف GGB هو ملف ورقة عمل GeoGebra",
+      " ال ",
+      " يتم استخدام امتداد الملف ggb لتنسيق ملف البيانات الذي تم تطويره بواسطة GeoGebra Team لأحد منتجات البرامج الخاصة بهم",
+      " يُعرف تنسيق ملف GGB ، المعروف باسم ملفات مستندات GeoGebra ، لملف إخراج المستند الافتراضي لبرنامج GeoGebra التعليمي"
+    ]
+  },
+  {
+    "title": "Font Definition Block\n",
+    "conversation": [
+      "Font Definition Block (abbreviation: FDB, filename extension ",
+      " fdb) is a file format for computer fonts used by the Ming library",
+      " An FDB file is a wrapper containing an SWF DefineFont2 block which describes a font"
+    ],
+    "translation": [
+      "字体定义块（缩写：FDB，文件扩展名.fdb）是 Ming 库使用的计算机字体的文件格式",
+      " FDB 文件是包含描述字体的 SWF DefineFont2 块的包装器"
+    ],
+    "arabic": [
+      "كتلة تعريف الخط (الاختصار: FDB ، امتداد اسم الملف",
+      " fdb) هو تنسيق ملف لخطوط الكمبيوتر المستخدمة من قبل مكتبة Ming",
+      " ملف FDB عبارة عن غلاف يحتوي على كتلة SWF DefineFont2 التي تصف أحد الخطوط"
+    ]
+  },
+  {
+    "title": "SDLC\n",
+    "conversation": [
+      "The software development lifecycle (SDLC) is the cost-effective and time-efficient process that development teams use to design and build high-quality software",
+      " The goal of SDLC is to minimize project risks through forward planning so that software meets customer expectations during production and beyond"
+    ],
+    "translation": [
+      "软件开发生命周期 (SDLC) 是开发团队用来设计和构建高质量软件的经济有效且省时的流程",
+      " SDLC 的目标是通过前瞻性规划最大限度地降低项目风险，以便软件在生产期间及之后满足客户的期望"
+    ],
+    "arabic": [
+      "دورة حياة تطوير البرمجيات (SDLC) هي عملية فعالة من حيث التكلفة وموفرة للوقت تستخدمها فرق التطوير لتصميم وبناء برامج عالية الجودة",
+      " الهدف من SDLC هو تقليل مخاطر المشروع من خلال التخطيط المسبق بحيث يفي البرنامج بتوقعات العملاء أثناء الإنتاج وما بعده"
+    ]
+  },
+  {
+    "title": "mainframe\n",
+    "conversation": [
+      "A mainframe is the central data repository, or hub , in a corporation's data processing center, linked to users through less powerful devices such as workstations or terminals",
+      " The presence of a mainframe often implies a centralized form of computing, as opposed to a distributed form of computing"
+    ],
+    "translation": [
+      "大型机是公司数据处理中心的中央数据存储库或集线器，通过工作站或终端等功能较弱的设备与用户连接",
+      " 大型机的存在通常意味着集中式计算，而不是分布式计算"
+    ],
+    "arabic": [
+      "الحاسوب المركزي هو مستودع البيانات المركزي ، أو المحور ، في مركز معالجة بيانات الشركة ، المرتبط بالمستخدمين من خلال أجهزة أقل قوة مثل محطات العمل أو المحطات الطرفية",
+      " غالبًا ما يشير وجود حاسب مركزي إلى شكل مركزي من الحوسبة ، على عكس الشكل الموزع للحوسبة"
+    ]
+  },
+  {
+    "title": "Fallback\n",
+    "conversation": [
+      "Fallback is a contingency option to be taken if the preferred choice is unavailable",
+      " It may specifically refer to:A signal of inferior quality in HD Radio\nFallback font in graphic user interface and typesetting\nFallback voting\nA feature of a modem protocol; see fall back and forward\nHappy Eyeballs (also called Fast Fallback), an IP networking technique\n"
+    ],
+    "translation": [
+      "后备是在首选选择不可用时采取的应急选项",
+      " 它可能具体指：HD Radio 中的劣质信号\n图形用户界面和排版中的后备字体\n后备投票\n调制解调器协议的功能； 查看后退和前进\nHappy Eyeballs（也称为快速后退），一种 IP 网络技术\n"
+    ],
+    "arabic": [
+      "الاحتياطي هو خيار طارئ يتم اتخاذه إذا كان الخيار المفضل غير متاح",
+      " قد يشير بشكل خاص إلى:  إشارة ذات جودة رديئة في راديو HD \n خط التراجع في واجهة المستخدم الرسومية وإعداد التنضيد \n التصويت ضد الخطأ \n إحدى ميزات بروتوكول المودم ؛ انظر إلى الخلف والأمام \n مقل العيون السعيدة (وتسمى أيضًا التراجع السريع) ، وهي تقنية لشبكات IP \n"
+    ]
+  },
+  {
+    "title": "Active Directory Domain Services (AD DS)\n",
+    "conversation": [
+      "A directory service, such as Active Directory Domain Services (AD DS), provides the methods for storing directory data and making this data available to network users and administrators"
+    ],
+    "translation": [
+      "目录服务（例如 Active Directory 域服务 (AD DS)）提供了存储目录数据并使该数据可供网络用户和管理员使用的方法"
+    ],
+    "arabic": [
+      "توفر خدمة الدليل ، مثل خدمات مجال Active Directory (AD DS) ، طرقًا لتخزين بيانات الدليل وإتاحة هذه البيانات لمستخدمي الشبكة والمسؤولين"
+    ]
+  },
+  {
+    "title": "application program\n",
+    "conversation": [
+      "An application program (software application, or application, or app for short) is a computer program designed to carry out a specific task other than one relating to the operation of the computer itself, typically to be used by end-users",
+      " Word processors, media players, and accounting software are examples"
+    ],
+    "translation": [
+      "应用程序（软件应用程序或简称为应用程序）是一种计算机程序，旨在执行除与计算机本身操作相关的任务之外的特定任务，通常由最终用户使用",
+      " 文字处理器、媒体播放器和会计软件都是示例"
+    ],
+    "arabic": [
+      "برنامج التطبيق (تطبيق برمجي ، أو تطبيق ، أو تطبيق باختصار) هو برنامج كمبيوتر مصمم لتنفيذ مهمة محددة بخلاف المهمة المتعلقة بتشغيل الكمبيوتر نفسه ، وعادة ما يستخدمه المستخدمون النهائيون",
+      " ومن الأمثلة على ذلك معالجات الكلمات ومشغلات الوسائط وبرامج المحاسبة"
+    ]
+  },
+  {
+    "title": "TErrestrial Trunked Radio\n",
+    "conversation": [
+      "TErrestrial Trunked RAdio (TETRA) is a digital trunked mobile radio standard developed to meet the needs of traditional Professional Mobile Radio (PMR) user organizations such as: Public Safety",
+      " Transportation",
+      " Utilities",
+      " Government"
+    ],
+    "translation": [
+      "地面集群无线电 (TETRA) 是一种数字集群移动无线电标准，旨在满足传统专业移动无线电 (PMR) 用户组织的需求，例如：公共安全",
+      " 运输",
+      " 公用事业",
+      " 政府"
+    ],
+    "arabic": [
+      "TErrestrial Trunked RAdio (TETRA) هو معيار راديو محمول رقمي تم تطويره لتلبية احتياجات منظمات مستخدمي الراديو المحمول الاحترافي التقليدي (PMR) مثل: السلامة العامة",
+      " مواصلات",
+      " خدمات",
+      " الحكومة"
+    ]
+  },
+  {
+    "title": "Throughput\n",
+    "conversation": [
+      "Throughput is a measure of how many units of information a system can process in a given amount of time",
+      " It is applied broadly to systems ranging from various aspects of computer and network systems to organizations"
+    ],
+    "translation": [
+      "吞吐量是衡量系统在给定时间内可以处理多少单位信息的指标",
+      " 它广泛应用于从计算机和网络系统的各个方面到组织的系统"
+    ],
+    "arabic": [
+      "الإنتاجية هي مقياس لعدد وحدات المعلومات التي يمكن للنظام معالجتها في فترة زمنية معينة",
+      " يتم تطبيقه على نطاق واسع على الأنظمة التي تتراوح من الجوانب المختلفة لأنظمة الكمبيوتر والشبكات إلى المؤسسات"
+    ]
+  },
+  {
+    "title": "Panasonic Electric Double Layer Capacitors\n",
+    "conversation": [
+      "Panasonic Electric Double Layer Capacitors, known as “Gold Capacitors”, offer the highest volumetric efficiency of all capacitor technologies",
+      " They are often compared to secondary batteries",
+      " Unlike Batteries, Gold Capacitors do not rely on a chemical reaction to produce electric current"
+    ],
+    "translation": [
+      "松下双电层电容器被称为“黄金电容器”，在所有电容器技术中具有最高的体积效率",
+      " 它们经常被比作二次电池",
+      " 与电池不同，金电容器不依赖化学反应来产生电流"
+    ],
+    "arabic": [
+      "تقدم مكثفات باناسونيك الكهربائية مزدوجة الطبقة ، والمعروفة باسم \"المكثفات الذهبية\" ، أعلى كفاءة حجمية لجميع تقنيات المكثفات",
+      " غالبًا ما تتم مقارنتها بالبطاريات الثانوية",
+      " على عكس البطاريات ، لا تعتمد المكثفات الذهبية على تفاعل كيميائي لإنتاج تيار كهربائي"
+    ]
+  },
+  {
+    "title": "Sink ",
+    "conversation": [
+      "A device that receives data over a communications line or I/O channel",
+      " For example, a user's PC attached to a network could be called a sink device",
+      " In contrast, the device from which the data originated is called the \"source device",
+      "\" See sink and heat sink"
+    ],
+    "translation": [
+      "通过通信线路或 I/O 通道接收数据的设备",
+      " 例如，连接到网络的用户 PC 可以称为接收设备",
+      " 相反，产生数据的设备称为“源设备”",
+      "请参阅接收器和散热器"
+    ],
+    "arabic": [
+      "جهاز يتلقى البيانات عبر خط اتصالات أو قناة إدخال / إخراج",
+      " على سبيل المثال ، يمكن تسمية جهاز الكمبيوتر الخاص بالمستخدم المتصل بشبكة بجهاز الحوض",
+      " في المقابل ، يسمى الجهاز الذي نشأت منه البيانات \"الجهاز المصدر \" انظر المشتت والمشتت الحراري"
+    ]
+  },
+  {
+    "title": "Address Resolution Protocol\n",
+    "conversation": [
+      "Address Resolution Protocol (ARP) is a protocol or procedure that connects an ever-changing Internet Protocol (IP) address to a fixed physical machine address, also known as a media access control (MAC) address, in a local-area network (LAN)"
+    ],
+    "translation": [
+      "地址解析协议 (ARP) 是在局域网 (LAN) 中将不断变化的 Internet 协议 (IP) 地址连接到固定物理机地址（也称为媒体访问控制 (MAC) 地址）的协议或过程",
+      " )."
+    ],
+    "arabic": [
+      "بروتوكول تحليل العنوان (ARP) هو بروتوكول أو إجراء يربط عنوان بروتوكول الإنترنت (IP) المتغير باستمرار بعنوان جهاز مادي ثابت ، يُعرف أيضًا باسم عنوان التحكم في الوصول إلى الوسائط (MAC) ، في شبكة محلية (LAN) )"
+    ]
+  },
+  {
+    "title": "(Manufacturing Message Specificatio\n",
+    "conversation": [
+      "IEC 61850 MMS (Manufacturing Message Specification) is a client/server based protocol for communications between IEDs (IED – Intelligent Electronic Device) and higher level entities (such as RTUs and SCADAs) over Ethernet that is part of the IEC 61850 standard for communication technology in substations"
+    ],
+    "translation": [
+      "IEC 61850 MMS（制造消息规范）是一种基于客户端/服务器的协议，用于通过以太网在 IED（IED – 智能电子设备）和更高级别实体（例如 RTU 和 SCADA）之间进行通信，是 IEC 61850 通信技术标准的一部分 在变电站"
+    ],
+    "arabic": [
+      "IEC 61850 MMS (مواصفات رسائل التصنيع) هو بروتوكول قائم على العميل / الخادم للاتصالات بين العبوات الناسفة (IED - الجهاز الإلكتروني الذكي) والكيانات ذات المستوى الأعلى (مثل RTU و SCADAs) عبر الإيثرنت الذي يعد جزءًا من معيار IEC 61850 لتكنولوجيا الاتصالات في المحطات الفرعية"
+    ]
+  },
+  {
+    "title": "Real Time Clock\n",
+    "conversation": [
+      "What is a Real Time Clock (RTC)? A real time clock, or RTC, is a digital clock with a primary function to keep accurate track of time even when a power supply is turned off or a device is placed in low power mode",
+      " RTC's are comprised of a controller, oscillator, and an embedded quartz crystal resonator"
+    ],
+    "translation": [
+      "什么是实时时钟 (RTC)？ 实时时钟 (RTC) 是一种数字时钟，其主要功能是即使在电源关闭或设备处于低功耗模式时也能准确跟踪时间",
+      " RTC 由控制器、振荡器和嵌入式石英晶体谐振器组成"
+    ],
+    "arabic": [
+      "ما هي ساعة الوقت الحقيقي (RTC)؟ ساعة الوقت الحقيقي ، أو RTC ، هي ساعة رقمية ذات وظيفة أساسية لتتبع الوقت بدقة حتى عند إيقاف تشغيل مصدر الطاقة أو وضع الجهاز في وضع الطاقة المنخفضة",
+      " تتكون أجهزة RTC من جهاز تحكم ومذبذب ومرنان بلوري كوارتز مضمن"
+    ]
+  },
+  {
+    "title": "Universal Time\n",
+    "conversation": [
+      "Universal Time is a time scale based on the Earth's circulation around itself",
+      " It is an updated version of Greenwich Time",
+      " Greenwich is a city in the United Kingdom where the Greenwich Line, named after Greenwich, is the basis of international time for the world and time is calculated as follows: -Some cities east of Greenwich City:"
+    ],
+    "translation": [
+      "世界时是基于地球绕其自身循环的时间尺度",
+      " 它是格林威治时间的更新版本",
+      " 格林威治是英国的一座城市，格林威治线以格林威治命名，是世界国际时间的基础，时间计算如下： - 格林威治市以东的一些城市："
+    ],
+    "arabic": [
+      "التوقيت العالمي هو مقياس زمني يعتمد على دوران الأرض حول نفسها",
+      " إنها نسخة محدثة من توقيت غرينتش",
+      " غرينتش هي مدينة في المملكة المتحدة حيث يعتبر خط غرينتش ، الذي سمي على اسم غرينتش ، أساس التوقيت الدولي للعالم ويتم حساب الوقت على النحو التالي: -بعض المدن شرق غرينتش سيتي:"
+    ]
+  },
+  {
+    "title": "The time zone\n",
+    "conversation": [
+      "The time zone is a section of the Earth's surface, in which one time is applied Time zones are usually divided longitudinally for the globe, from the Arctic to the Antarctic",
+      " The North and South Poles do not follow any particular time zone",
+      " For them, Universal Time applies"
+    ],
+    "translation": [
+      "时区是地球表面的一部分，其中应用一个时间",
+      "时区通常为全球纵向划分，从北极到南极",
+      " 北极和南极不遵循任何特定时区",
+      " 对他们来说，适用世界时"
+    ],
+    "arabic": [
+      "المنطقة الزمنية هي جزء من سطح الأرض ، يتم فيه تطبيق مرة واحدة ، وعادة ما يتم تقسيم المناطق الزمنية طوليًا للكرة الأرضية ، من القطب الشمالي إلى القطب الجنوبي",
+      " لا يتبع القطبان الشمالي والجنوبي أي منطقة زمنية معينة",
+      " بالنسبة لهم ، ينطبق التوقيت العالمي"
+    ]
+  },
+  {
+    "title": "modem\n",
+    "conversation": [
+      "A modem is a box that connects your home network to your internet service provider, or ISP",
+      " A router is a box that lets all of your wired and wireless devices use that internet connection at once and allows them to talk to one another directly"
+    ],
+    "translation": [
+      "调制解调器是将您的家庭网络连接到互联网服务提供商或 ISP 的盒子",
+      " 路由器是一个盒子，可以让所有有线和无线设备同时使用互联网连接，并允许它们直接相互通信"
+    ],
+    "arabic": [
+      "المودم هو صندوق يربط شبكتك المنزلية بمزود خدمة الإنترنت أو ISP",
+      " جهاز التوجيه هو صندوق يتيح لجميع أجهزتك السلكية واللاسلكية استخدام اتصال الإنترنت هذا في وقت واحد ويسمح لهم بالتحدث مع بعضهم البعض مباشرة"
+    ]
+  },
+  {
+    "title": "Bit error ratio\n",
+    "conversation": [
+      "Bit error ratio is the number of erroneous bits divided by the total number of bits transmitted, received, or processed over some stipulated period"
+    ],
+    "translation": [
+      "误码率是错误位数除以在某个规定时间段内发送、接收或处理的总位数"
+    ],
+    "arabic": [
+      "نسبة خطأ البت هي عدد البتات الخاطئة مقسومة على العدد الإجمالي للبتات المرسلة أو المتلقاة أو المعالجة خلال فترة محددة"
+    ]
+  },
+  {
+    "title": "USSD\n",
+    "conversation": [
+      "USSD (Unstructured Supplementary Service Data) is a Global System for Mobile Communications (GSM) protocol that is used to send text messages",
+      " USSD is similar to Short Message Service (SMS)",
+      " USSD uses codes made up of the characters that are available on a mobile phone"
+    ],
+    "translation": [
+      "USSD（非结构化补充服务数据）是一种全球移动通信系统 (GSM) 协议，用于发送文本消息",
+      " USSD 类似于短信服务 (SMS)",
+      " USSD 使用由移动电话上可用的字符组成的代码"
+    ],
+    "arabic": [
+      "USSD (بيانات الخدمة التكميلية غير المنظمة) هو بروتوكول نظام عالمي للاتصالات المتنقلة (GSM) يُستخدم لإرسال رسائل نصية",
+      " USSD يشبه خدمة الرسائل القصيرة (SMS)",
+      " يستخدم USSD رموز مكونة من الأحرف المتوفرة على الهاتف المحمول"
+    ]
+  },
+  {
+    "title": "Roll, Pitch, and Yaw\n",
+    "conversation": [
+      "What are Roll, Pitch, and Yaw? Imagine three lines running through an airplane and intersecting at right angles at the airplane's center of gravity",
+      " Rotation around the front-to-back axis is called roll",
+      " Rotation around the side-to-side axis is called pitch",
+      " Rotation around the vertical axis is called yaw"
+    ],
+    "translation": [
+      "什么是横滚、俯仰和偏航？ 想象三条线穿过一架飞机，并在飞机的重心处以直角相交",
+      " 围绕前后轴的旋转称为滚动",
+      " 绕左右轴的旋转称为俯仰",
+      " 绕垂直轴的旋转称为偏航"
+    ],
+    "arabic": [
+      "ما هي اللف والخطوة والانعراج؟ تخيل ثلاثة خطوط تمر عبر طائرة وتتقاطع بزوايا قائمة في مركز جاذبية الطائرة",
+      " يسمى الدوران حول المحور الأمامي للخلف باللف",
+      " يسمى الدوران حول المحور من جانب إلى جانب الملعب",
+      " الدوران حول المحور الرأسي يسمى الانعراج"
+    ]
+  },
+  {
+    "title": "hardware abstraction layer \n",
+    "conversation": [
+      "In computers, a hardware abstraction layer (HAL) is a layer of programming that allows a computer OS to interact with a hardware device at a general or abstract level rather than at a detailed hardware level",
+      " HAL can be called from either the OS's kernel or from a device driver"
+    ],
+    "translation": [
+      "在计算机中，硬件抽象层 (HAL) 是一个编程层，它允许计算机操作系统在通用或抽象级别而不是在详细的硬件级别与硬件设备交互",
+      " 可以从操作系统内核或设备驱动程序调用 HAL"
+    ],
+    "arabic": [
+      "في أجهزة الكمبيوتر ، طبقة تجريد الأجهزة (HAL) هي طبقة برمجة تسمح لنظام تشغيل الكمبيوتر بالتفاعل مع جهاز على مستوى عام أو مجرد بدلاً من مستوى الأجهزة المفصل",
+      " يمكن استدعاء HAL إما من نواة نظام التشغيل أو من برنامج تشغيل الجهاز"
+    ]
+  },
+  {
+    "title": "BIOS\n",
+    "conversation": [
+      "BIOS (basic input/output system) is the program a computer's microprocessor uses to start the computer system after it is powered on",
+      " It also manages data flow between the computer's operating system (OS) and attached devices, such as the hard disk, video adapter, keyboard, mouse and printer"
+    ],
+    "translation": [
+      "BIOS（基本输入/输出系统）是计算机微处理器在通电后用来启动计算机系统的程序",
+      " 它还管理计算机操作系统(OS)和连接设备（例如硬盘、视频适配器、键盘、鼠标和打印机）之间的数据流"
+    ],
+    "arabic": [
+      "BIOS (نظام الإدخال / الإخراج الأساسي) هو البرنامج الذي يستخدمه المعالج الدقيق للكمبيوتر لبدء تشغيل نظام الكمبيوتر بعد تشغيله",
+      " كما يدير تدفق البيانات بين نظام تشغيل الكمبيوتر والأجهزة المتصلة به ، مثل القرص الثابت ومحول الفيديو ولوحة المفاتيح والماوس والطابعة"
+    ]
+  },
+  {
+    "title": "time slot\n",
+    "conversation": [
+      "Definitions of time slot",
+      " a time assigned on a schedule or agenda"
+    ],
+    "translation": ["时隙的定义", " 日程表或议程上分配的时间", ""],
+    "arabic": ["تعريفات الفترة الزمنية", " وقت معين في جدول أو جدول أعمال", " "]
+  },
+  {
+    "title": "tachograph\n",
+    "conversation": [
+      "A tachograph is a device fitted to a vehicle that automatically records its speed and distance, together with the driver's activity selected from a choice of modes",
+      " The drive mode is activated automatically when the vehicle is in motion, and modern tachograph heads usually default to the other work mode upon coming to rest",
+      " The rest and availability modes can be manually selected by the driver whilst stationary",
+      "\n"
+    ],
+    "translation": [
+      "行车记录仪是一种安装在车辆上的设备，可以自动记录车辆的速度和距离，以及从多种模式中选择的驾驶员活动",
+      " 当车辆行驶时，驱动模式会自动激活，而现代行车记录仪头通常在静止时默认为其他工作模式",
+      " 驾驶员可以在静止状态下手动选择休息和可用性模式",
+      "\n"
+    ],
+    "arabic": [
+      "التاكوجراف هو جهاز يتم تركيبه في مركبة يسجل تلقائيًا سرعتها ومسافتها ، جنبًا إلى جنب مع نشاط السائق المختار من بين مجموعة من الأوضاع",
+      " يتم تنشيط وضع القيادة تلقائيًا عندما تكون السيارة في حالة حركة ، وعادة ما تكون رؤوس التاكوجراف الحديثة افتراضيًا في وضع العمل الآخر عند الوصول للراحة",
+      " يمكن للسائق تحديد وضعي الراحة والتوافر يدويًا أثناء الثبات",
+      "  \n"
+    ]
+  },
+  {
+    "title": "Black Box\n",
+    "conversation": [
+      "The Black Box in Science, Computing and Engineering is a system that can be seen in terms of its inputs and outputs, without any knowledge of its internal modus operandi",
+      " Run it \"opaque",
+      "\" The term can be used to refer to many internal works, such as transistors, engines, algorithms, the human mind, an institution or a government"
+    ],
+    "translation": [
+      "科学、计算和工程中的黑匣子是一个可以通过其输入和输出看到的系统，而无需了解其内部操作方式",
+      " 运行它“不透明”",
+      "这个术语可以用来指许多内部作品，例如晶体管、引擎、算法、人类思维、机构或政府"
+    ],
+    "arabic": [
+      "الصندوق الأسود في العلوم والحوسبة والهندسة هو نظام يمكن رؤيته من حيث مدخلاته ومخرجاته ، دون أي معرفة بطريقة عمله الداخلية",
+      " قم بتشغيله \"معتم \"",
+      " يمكن استخدام المصطلح للإشارة إلى العديد من الأعمال الداخلية ، مثل الترانزستورات أو المحركات أو الخوارزميات أو العقل البشري أو مؤسسة أو حكومة"
+    ]
+  },
+  {
+    "title": "placeholder\n",
+    "conversation": [
+      "In computer programming, a placeholder is a character, word, or string of characters that temporarily takes the place of the final data",
+      " For example, a programmer may know that she needs a certain number of values or variables, but doesn't yet know what to input",
+      " She can use a placeholder as a temporary solution until a proper value or variable can be assigned",
+      "\n"
+    ],
+    "translation": [
+      "在计算机编程中，占位符是暂时代替最终数据的字符、单词或字符串",
+      " 例如，程序员可能知道她需要一定数量的值或变量，但还不知道要输入什么",
+      " 她可以使用占位符作为临时解决方案，直到可以分配正确的值或变量",
+      "\n"
+    ],
+    "arabic": [
+      "في برمجة الكمبيوتر ، العنصر النائب هو حرف أو كلمة أو سلسلة من الأحرف التي تحل مؤقتًا محل البيانات النهائية",
+      " على سبيل المثال ، قد يعرف المبرمج أنه يحتاج إلى عدد معين من القيم أو المتغيرات ، لكنه لا يعرف بعد ما يجب إدخاله",
+      " يمكنها استخدام عنصر نائب كحل مؤقت حتى يمكن تعيين قيمة أو متغير مناسب",
+      "  \n"
+    ]
+  }
+]

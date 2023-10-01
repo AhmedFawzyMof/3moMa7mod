@@ -1,0 +1,456 @@
+[
+  {
+    "title": "Push–pull",
+    "conversation": [
+      "Push–pull technology is an intercropping strategy for controlling agricultural pests by using repellent \"push\" plants and trap \"pull\" plants",
+      " For example, cereal crops like maize or sorghum are often infested by stem borers"
+    ],
+    "translation": [
+      "Die Push-Pull-Technologie ist eine Zwischenfruchtstrategie zur Bekämpfung landwirtschaftlicher Schädlinge durch den Einsatz abstoßender „Push“-Pflanzen und Fallen-„Pull“-Pflanzen",
+      " Beispielsweise werden Getreidepflanzen wie Mais oder Sorghum häufig von Stängelbohrern befallen"
+    ],
+    "arabic": [
+      "تقنية الدفع والسحب هي استراتيجية زراعة مشتركة للسيطرة على الآفات الزراعية باستخدام نباتات \"دفع\" طاردة للحشرات ومصيدة \"سحب\" نباتات",
+      " على سبيل المثال ، غالبًا ما تنتشر محاصيل الحبوب مثل الذرة أو الذرة الرفيعة بواسطة حفاري الساق"
+    ]
+  },
+  {
+    "title": "Plug and Play",
+    "conversation": [
+      "Plug and Play (PnP) is the part of Windows that enables a computer system to adapt to hardware changes with minimal intervention by the user",
+      " A user can add and remove devices without having to do manual configuration, and without knowledge of computer hardware"
+    ],
+    "translation": [
+      "Plug and Play (PnP) ist der Teil von Windows, der es einem Computersystem ermöglicht, sich mit minimalem Eingriff des Benutzers an Hardwareänderungen anzupassen",
+      " Ein Benutzer kann Geräte hinzufügen und entfernen, ohne eine manuelle Konfiguration durchführen zu müssen und ohne Kenntnisse über Computerhardware zu benötigen"
+    ],
+    "arabic": [
+      "التوصيل والتشغيل (PnP) هو جزء من Windows يمكّن نظام الكمبيوتر من التكيف مع تغييرات الأجهزة بأقل تدخل من المستخدم",
+      " يمكن للمستخدم إضافة وإزالة الأجهزة دون الحاجة إلى إجراء التكوين اليدوي ، ودون معرفة أجهزة الكمبيوتر"
+    ]
+  },
+  {
+    "title": "strain relief",
+    "conversation": [
+      "A strain relief, also commonly called a bend relief, is important to the electrical and mechanical integrity and overall performance of a medical cable assembly",
+      " A strain relief is used to provide a transition from flexible cable to a rigid connector or connection point"
+    ],
+    "translation": [
+      "Eine Zugentlastung, auch Biegeentlastung genannt, ist wichtig für die elektrische und mechanische Integrität und die Gesamtleistung einer medizinischen Kabelbaugruppe",
+      " Eine Zugentlastung wird verwendet, um einen Übergang von einem flexiblen Kabel zu einem starren Stecker oder Verbindungspunkt bereitzustellen"
+    ],
+    "arabic": [
+      "يعتبر تخفيف الضغط ، المعروف أيضًا باسم تخفيف الانحناء ، مهمًا للسلامة الكهربائية والميكانيكية والأداء العام لتجميع الكابلات الطبية",
+      " يتم استخدام تخفيف الضغط لتوفير الانتقال من كبل مرن إلى موصل صلب أو نقطة اتصال"
+    ]
+  },
+  {
+    "title": "AWG",
+    "conversation": [
+      "American Wire Gauge (AWG) is the standard way to denote wire size in North America",
+      " In AWG, the larger the number, the smaller the wire diameter and thickness",
+      " The largest standard size is 0000 AWG, and 40 AWG is the smallest standard size"
+    ],
+    "translation": [
+      "American Wire Gauge (AWG) ist die Standardmethode zur Bezeichnung der Drahtgröße in Nordamerika",
+      " Bei AWG gilt: Je größer die Zahl, desto kleiner sind Drahtdurchmesser und -stärke",
+      " Die größte Standardgröße ist 0000 AWG und 40 AWG ist die kleinste Standardgröße"
+    ],
+    "arabic": [
+      "مقياس الأسلاك الأمريكي (AWG) هو الطريقة القياسية للإشارة إلى حجم الأسلاك في أمريكا الشمالية",
+      " في AWG ، كلما زاد الرقم ، قل قطر السلك وسمكه",
+      " أكبر حجم قياسي هو 0000 AWG ، و 40 AWG هو أصغر حجم قياسي"
+    ]
+  },
+  {
+    "title": "Pin assignments",
+    "conversation": [
+      "Pin assignments provide direction to the Fitter and specify the signals that should be assigned to device pins",
+      " While compiling only the IP core, you can create virtual pins to avoid making specific pin assignments for top-level signals"
+    ],
+    "translation": [
+      "Pin-Zuweisungen geben dem Monteur die Richtung vor und geben die Signale an, die den Geräte-Pins zugewiesen werden sollen",
+      " Während Sie nur den IP-Kern kompilieren, können Sie virtuelle Pins erstellen, um die Festlegung spezifischer Pin-Zuweisungen für Signale der obersten Ebene zu vermeiden"
+    ],
+    "arabic": [
+      "توفر تعيينات الدبوس اتجاهًا إلى المجرب وتحدد الإشارات التي يجب تعيينها لدبابيس الجهاز",
+      " أثناء تجميع نواة IP فقط ، يمكنك إنشاء دبابيس افتراضية لتجنب تعيين تعيينات دبوس محددة لإشارات المستوى الأعلى"
+    ]
+  },
+  {
+    "title": "FPGA",
+    "conversation": [
+      "What Is an FPGA? Field Programmable Gate Arrays (FPGAs) are integrated circuits often sold off-the-shelf",
+      " They're referred to as 'field programmable' because they provide customers the ability to reconfigure the hardware to meet specific use case requirements after the manufacturing process"
+    ],
+    "translation": [
+      "Was ist ein FPGA? Field Programmable Gate Arrays (FPGAs) sind integrierte Schaltkreise, die oft serienmäßig verkauft werden",
+      " Sie werden als „feldprogrammierbar“ bezeichnet, weil sie Kunden die Möglichkeit bieten, die Hardware nach dem Herstellungsprozess neu zu konfigurieren, um bestimmte Anwendungsanforderungen zu erfüllen"
+    ],
+    "arabic": [
+      "ما هو FPGA؟ صفيفات البوابة القابلة للبرمجة الميدانية (FPGAs) عبارة عن دوائر متكاملة تُباع غالبًا في الأسواق",
+      " يُشار إليها على أنها 'حقل قابل للبرمجة' لأنها توفر للعملاء القدرة على إعادة تكوين الأجهزة لتلبية متطلبات حالة الاستخدام المحددة بعد عملية التصنيع"
+    ]
+  },
+  {
+    "title": "SPI (Serial Peripheral Interface)",
+    "conversation": [
+      "SPI is a full-duplex interface; both main and subnode can send data at the same time via the MOSI and MISO lines respectively",
+      " During SPI communication, the data is simultaneously transmitted (shifted out serially onto the MOSI/SDO bus) and received (the data on the bus (MISO/SDI) is sampled or read in)"
+    ],
+    "translation": [
+      "SPI ist eine Vollduplex-Schnittstelle; Sowohl der Haupt- als auch der Unterknoten können gleichzeitig Daten über die MOSI- bzw",
+      " MISO-Leitungen senden",
+      " Bei der SPI-Kommunikation werden die Daten gleichzeitig gesendet (seriell auf den MOSI/SDO-Bus verschoben) und empfangen (die Daten auf dem Bus (MISO/SDI) werden abgetastet oder eingelesen)"
+    ],
+    "arabic": [
+      "SPI هي واجهة ثنائية الاتجاه ؛ يمكن لكل من العقدة الرئيسية والفرعية إرسال البيانات في نفس الوقت عبر خطوط MOSI و MISO على التوالي",
+      " أثناء اتصال SPI ، يتم إرسال البيانات بشكل متزامن (يتم نقلها بشكل تسلسلي إلى ناقل MOSI / SDO) وتلقيها (يتم أخذ عينات من البيانات الموجودة على الناقل (MISO / SDI) أو قراءتها)"
+    ]
+  },
+  {
+    "title": "reverse battery",
+    "conversation": [
+      "Reverse Polarity is also referred to as the concept of taking a secondary battery that is completely discharged and connecting a charger to the terminals the wrong way round so that its negative terminal becomes positive and its positive terminal becomes negative"
+    ],
+    "translation": [
+      "Unter umgekehrter Polarität versteht man auch das Konzept, eine vollständig entladene Sekundärbatterie zu nehmen und ein Ladegerät falsch herum an die Pole anzuschließen, sodass der Minuspol zum Pluspol und der Pluspol zum Minuspol wird"
+    ],
+    "arabic": [
+      "يشار أيضًا إلى القطبية العكسية على أنها مفهوم أخذ بطارية ثانوية يتم تفريغها تمامًا وتوصيل الشاحن بالأطراف بطريقة خاطئة بحيث يصبح الطرف السالب موجبًا ويصبح الطرف الموجب سالبًا"
+    ]
+  },
+  {
+    "title": "pre-terminated cable",
+    "conversation": [
+      "Pre-terminated cable provides a plug-and-play solution for links between switches, servers, patch panels, and zone distribution areas in the data center",
+      " These solutions include a variety of trunk cables, array cables, and plug-and-play cassettes that give data center managers options that suit specific needs"
+    ],
+    "translation": [
+      "Vorkonfektionierte Kabel bieten eine Plug-and-Play-Lösung für Verbindungen zwischen Switches, Servern, Patchpanels und Zonenverteilungsbereichen im Rechenzentrum",
+      " Diese Lösungen umfassen eine Vielzahl von Stammkabeln, Array-Kabeln und Plug-and-Play-Kassetten, die Rechenzentrumsmanagern Optionen bieten, die ihren spezifischen Anforderungen gerecht werden"
+    ],
+    "arabic": [
+      "يوفر الكبل المنتهي مسبقًا حلاً للتوصيل والتشغيل للارتباطات بين المحولات والخوادم ولوحات التصحيح ومناطق توزيع المنطقة في مركز البيانات",
+      " تتضمن هذه الحلول مجموعة متنوعة من الكابلات الرئيسية وكابلات الصفيف وأشرطة التوصيل والتشغيل التي توفر لمديري مراكز البيانات خيارات تناسب احتياجات محددة"
+    ]
+  },
+  {
+    "title": "A cross-section",
+    "conversation": [
+      "A cross-section is a shape that is yielded from a solid (eg",
+      " cone, cylinder, sphere) when cut by a plane",
+      " For example, a cylinder-shaped object is cut by a plane parallel to its base; then the resultant cross-section will be a circle"
+    ],
+    "translation": [
+      "Ein Querschnitt ist eine Form, die sich aus einem Körper (z B",
+      " Kegel, Zylinder, Kugel) ergibt, wenn er durch eine Ebene geschnitten wird",
+      " Beispielsweise wird ein zylinderförmiges Objekt durch eine Ebene parallel zu seiner Basis geschnitten; dann ist der resultierende Querschnitt ein Kreis"
+    ],
+    "arabic": [
+      "المقطع العرضي هو شكل ناتج عن مادة صلبة (على سبيل المثال ، مخروط ، أسطوانة ، كرة) عند قطعه بواسطة مستو",
+      " على سبيل المثال ، يتم قطع جسم على شكل أسطوانة بمستوى موازٍ لقاعدته ؛ ثم سيكون المقطع العرضي الناتج دائرة"
+    ]
+  },
+  {
+    "title": "Depth stops",
+    "conversation": [
+      "Depth stops, also called drill stops, are collars that fit around your drill bit",
+      " They allow you to drill a specific depth, and prevent the drill from drilling any deeper",
+      " Drill stops are sold in sets containing a variety of sizes for use on different sized drill bits"
+    ],
+    "translation": [
+      "Tiefenstopps, auch Bohrstopps genannt, sind Manschetten, die um Ihren Bohrer passen",
+      " Sie ermöglichen das Bohren in einer bestimmten Tiefe und verhindern, dass der Bohrer noch tiefer bohrt",
+      " Bohrerstopps werden in Sets verkauft, die verschiedene Größen zur Verwendung mit unterschiedlich großen Bohrern enthalten"
+    ],
+    "arabic": [
+      "توقفات العمق ، وتسمى أيضًا توقفات الحفر ، هي أطواق تتلاءم مع ريشة المثقاب",
+      " إنها تسمح لك بالحفر بعمق معين ، وتمنع المثقاب من الحفر إلى أعمق",
+      " تُباع مثاقب المثقاب في مجموعات تحتوي على مجموعة متنوعة من الأحجام لاستخدامها في لقم الثقب بأحجام مختلفة"
+    ]
+  },
+  {
+    "title": "Drill stops",
+    "conversation": [
+      "Drill stops are protective collars that are placed around a drill bit",
+      " They are designed to limit drilling depth",
+      " Without a drill stop, you may drill too deep, resulting in damage to the object or parts behind the object",
+      " A drill stop will prevent this from happening"
+    ],
+    "translation": [
+      "Bohrerstopps sind Schutzmanschetten, die um einen Bohrer gelegt werden",
+      " Sie sollen die Bohrtiefe begrenzen",
+      " Ohne Bohrstopp können Sie zu tief bohren und das Objekt oder Teile hinter dem Objekt beschädigen",
+      " Ein Bohrstopp verhindert dies"
+    ],
+    "arabic": [
+      "توقف المثقاب عبارة عن أطواق واقية توضع حول ريشة الحفر",
+      " وهي مصممة للحد من عمق الحفر",
+      " بدون توقف المثقاب ، قد تقوم بالثقب بعمق شديد ، مما يؤدي إلى تلف الجسم أو الأجزاء الموجودة خلفه",
+      " توقف الحفر سيمنع هذا من الحدوث"
+    ]
+  },
+  {
+    "title": "raw edge",
+    "conversation": [
+      ": an unfinished, rough, or undecorated edge (as at the top of a piece of holloware or at the margin of a piece of textile) compare selvage"
+    ],
+    "translation": [
+      ": eine unbearbeitete, raue oder unverzierte Kante (wie an der Oberseite eines Stücks Holloware oder am Rand eines Stücks Textil), vergleiche Webkante"
+    ],
+    "arabic": [
+      ": حافة غير مكتملة أو خشنة أو غير مزخرفة (كما هو الحال في الجزء العلوي من قطعة مجوفة أو على هامش قطعة من القماش) قارن الحاشية"
+    ]
+  },
+  {
+    "title": "algorithm",
+    "conversation": [
+      "An algorithm is a procedure used for solving a problem or performing a computation",
+      " Algorithms act as an exact list of instructions that conduct specified actions step by step in either hardware- or software-based routines",
+      " Algorithms are widely used throughout all areas of IT"
+    ],
+    "translation": [
+      "Ein Algorithmus ist ein Verfahren zur Lösung eines Problems oder zur Durchführung einer Berechnung",
+      " Algorithmen fungieren als genaue Liste von Anweisungen, die bestimmte Aktionen Schritt für Schritt in hardware- oder softwarebasierten Routinen ausführen",
+      " Algorithmen sind in allen Bereichen der IT weit verbreitet"
+    ],
+    "arabic": [
+      "الخوارزمية هي إجراء يستخدم لحل مشكلة أو إجراء عملية حسابية",
+      " تعمل الخوارزميات كقائمة دقيقة من التعليمات التي تنفذ الإجراءات المحددة خطوة بخطوة سواء في الإجراءات القائمة على الأجهزة أو البرامج",
+      " تُستخدم الخوارزميات على نطاق واسع في كافة مجالات تكنولوجيا المعلومات"
+    ]
+  },
+  {
+    "title": "covert microphone",
+    "conversation": [
+      "A covert microphone is a specially designed microphone used to eavesdrop on a target room, area, person or conversation"
+    ],
+    "translation": [
+      "Ein verdecktes Mikrofon ist ein speziell entwickeltes Mikrofon, das zum Abhören eines bestimmten Raums, Bereichs, einer bestimmten Person oder eines Gesprächs verwendet wird"
+    ],
+    "arabic": [
+      "الميكروفون السري عبارة عن ميكروفون مصمم خصيصًا للتنصت على غرفة أو منطقة أو شخص أو محادثة مستهدفة"
+    ]
+  },
+  {
+    "title": "Covert Alert",
+    "conversation": [
+      "Covert Alert is a voice-activated GPS-based personal emergency tracking & alert app for safety"
+    ],
+    "translation": [
+      "Covert Alert ist eine sprachaktivierte GPS-basierte persönliche Notfall-Tracking- und Alarm-App für die Sicherheit"
+    ],
+    "arabic": [
+      "Covert Alert هو تطبيق تتبع وتنبيه شخصي للطوارئ يعتمد على نظام تحديد المواقع العالمي (GPS) يتم تنشيطه صوتيًا للسلامة"
+    ]
+  },
+  {
+    "title": "A nyloc nut",
+    "conversation": [
+      "A nyloc nut, also referred to as a nylon-insert lock nut, polymer-insert lock nut, or elastic stop nut, is a kind of locknut with a nylon collar that "
+    ],
+    "translation": [
+      "Eine Nyloc-Mutter, auch als Kontermutter mit Nyloneinsatz, Kontermutter mit Polymereinsatz oder elastische Stoppmutter bezeichnet, ist eine Art Kontermutter mit einem Nylonkragen, der "
+    ],
+    "arabic": [
+      "صمولة nyloc ، يشار إليها أيضًا باسم صامولة قفل من النايلون ، أو صامولة قفل بإدخال البوليمر ، أو صمولة توقف مرنة ، هي نوع من صامولة القفل ذات طوق من النايلون "
+    ]
+  },
+  {
+    "title": "Cable Termination",
+    "conversation": [
+      "Cable Termination is the connection of the wire or fiber to a device, such as equipment, panels or a wall outlet, which allows for connecting the cable to other cables or devices"
+    ],
+    "translation": [
+      "Beim Kabelabschluss handelt es sich um die Verbindung des Kabels oder der Glasfaser mit einem Gerät, z",
+      " B",
+      " Geräten, Panels oder einer Wandsteckdose, die den Anschluss des Kabels an andere Kabel oder Geräte ermöglicht"
+    ],
+    "arabic": [
+      "إنهاء الكبل هو توصيل السلك أو الألياف بجهاز ، مثل المعدات أو اللوحات أو مقبس الحائط ، مما يسمح بتوصيل الكبل بكبلات أو أجهزة أخرى"
+    ]
+  },
+  {
+    "title": "Cable tags",
+    "conversation": [
+      "Cable tags are used for clear, concise cable identification",
+      " Cable identification tags are used in both indoor and outdoor applications and are typically attached to a wire or cable bundle with cable ties",
+      " To meet all requirements, there are a wide variety of label materials with different properties"
+    ],
+    "translation": [
+      "Kabeletiketten dienen der eindeutigen und eindeutigen Kabelkennzeichnung",
+      " Kabelkennzeichnungsetiketten werden sowohl im Innen- als auch im Außenbereich verwendet und normalerweise mit Kabelbindern an einem Draht- oder Kabelbündel befestigt",
+      " Um allen Anforderungen gerecht zu werden, gibt es verschiedenste Etikettenmaterialien mit unterschiedlichen Eigenschaften"
+    ],
+    "arabic": [
+      "تُستخدم علامات الكبل لتحديد هوية الكابلات بشكل واضح وموجز",
+      " تُستخدم علامات تعريف الكابلات في كل من التطبيقات الداخلية والخارجية ويتم إرفاقها عادةً بسلك أو حزمة كبل مع روابط كبلات",
+      " لتلبية جميع المتطلبات ، هناك مجموعة متنوعة من مواد الملصقات بخصائص مختلفة"
+    ]
+  },
+  {
+    "title": "Forward acceleration",
+    "conversation": [
+      "Forward acceleration is simply the rate of change in speed",
+      " In car terms, the quicker the car accelerates, the quicker the speedometer moves",
+      " People in the car can also feel the acceleration push them back into the seat, or into the seatbelt for deceleration"
+    ],
+    "translation": [
+      "Die Vorwärtsbeschleunigung ist einfach die Geschwindigkeitsänderungsrate",
+      " Beim Auto gilt: Je schneller das Auto beschleunigt, desto schneller bewegt sich der Tacho",
+      " Die Personen im Auto können auch spüren, wie die Beschleunigung sie zurück in den Sitz oder zum Abbremsen in den Sicherheitsgurt drückt"
+    ],
+    "arabic": [
+      "التسارع إلى الأمام هو ببساطة معدل التغير في السرعة",
+      " من حيث السيارة ، كلما زادت سرعة السيارة ، زادت سرعة تحرك عداد السرعة",
+      " يمكن أن يشعر الأشخاص في السيارة أيضًا بأن التسارع يدفعهم للخلف إلى المقعد ، أو في حزام الأمان من أجل التباطؤ"
+    ]
+  },
+  {
+    "title": "Jerk",
+    "conversation": [
+      "Acceleration change rate is the rate of acceleration change relative to time or it can be said to be the derivative of acceleration relative to time, and since acceleration is the derivative of speed, so it is the second derivative of speed, as well as the third derivative of distance"
+    ],
+    "translation": [
+      "Die Beschleunigungsänderungsrate ist die Rate der Beschleunigungsänderung relativ zur Zeit oder man kann sagen, dass sie die Ableitung der Beschleunigung relativ zur Zeit ist, und da die Beschleunigung die Ableitung der Geschwindigkeit ist, ist sie sowohl die zweite als auch die dritte Ableitung der Geschwindigkeit Ableitung der Entfernung"
+    ],
+    "arabic": [
+      "معدل تغير التسارع هو معدل تغير التسارع بالنسبة للوقت أو يمكن القول أنه مشتق من مشتق التسارع بالنسبة للوقت ، وبما أن التسارع هو مشتق السرعة ، لذلك فهو المشتق الثاني للسرعة ، وكذلك الثالث مشتق من المسافة"
+    ]
+  },
+  {
+    "title": "Roundabout,",
+    "conversation": [
+      "Roundabout, orbit, roundabout or roundabout are the crossroads of circular-shaped roads, and there is often a central island around which cars orbit to change their direction",
+      " It is usually allowed to rotate around the rotor in one direction, but some rotors have a two-way rotation"
+    ],
+    "translation": [
+      "Kreisverkehr, Umlaufbahn, Kreisverkehr oder Kreisverkehr sind die Kreuzung kreisförmiger Straßen, und oft gibt es eine zentrale Insel, um die Autos kreisen, um ihre Richtung zu ändern",
+      " Normalerweise ist es erlaubt, den Rotor in eine Richtung zu drehen, einige Rotoren haben jedoch auch eine Drehung in beide Richtungen"
+    ],
+    "arabic": [
+      "يمثل التقاطع الدائري أو المدار أو الدوار أو الدوار ملتقى طرقًا دائرية الشكل ، وغالبًا ما توجد جزيرة مركزية تدور حولها السيارات لتغيير اتجاهها",
+      " يُسمح عادةً بالدوران حول الدوار في اتجاه واحد ، لكن بعض الدوارات لها دوران ثنائي الاتجاه"
+    ]
+  },
+  {
+    "title": "Business Intelligence",
+    "conversation": [
+      "IT definition, can be translated as 'business analysis' and contains procedures and processes for systematic analysis (collection, evaluation and representation) of data in electronic form and for the automation of reporting"
+    ],
+    "translation": [
+      "IT-Definition, lässt sich mit „Geschäftsanalyse“ übersetzen und beinhaltet Verfahren und Prozesse zur systematischen Analyse (Erhebung, Auswertung und Darstellung) von Daten in elektronischer Form und zur Automatisierung des Reportings"
+    ],
+    "arabic": [
+      "يمكن ترجمة تعريف تكنولوجيا المعلومات إلى 'تحليل الأعمال' ويحتوي على إجراءات وعمليات للتحليل المنهجي (الجمع والتقييم والتمثيل) للبيانات في شكل إلكتروني ولأتمتة إعداد التقارير"
+    ]
+  },
+  {
+    "title": "Field Programmable Gate Arrays (FPGAs) ",
+    "conversation": [
+      "What Is an FPGA? Field Programmable Gate Arrays (FPGAs) are integrated circuits often sold off-the-shelf",
+      " They're referred to as 'field programmable' because they provide customers the ability to reconfigure the hardware to meet specific use case requirements after the manufacturing process"
+    ],
+    "translation": [
+      "Was ist ein FPGA? Field Programmable Gate Arrays (FPGAs) sind integrierte Schaltkreise, die oft serienmäßig verkauft werden",
+      " Sie werden als „feldprogrammierbar“ bezeichnet, weil sie Kunden die Möglichkeit bieten, die Hardware nach dem Herstellungsprozess neu zu konfigurieren, um bestimmte Anwendungsanforderungen zu erfüllen"
+    ],
+    "arabic": [
+      "ما هو FPGA؟ صفيفات البوابة القابلة للبرمجة الميدانية (FPGAs) عبارة عن دوائر متكاملة تُباع غالبًا في الأسواق",
+      " يُشار إليها على أنها 'حقل قابل للبرمجة' لأنها توفر للعملاء القدرة على إعادة تكوين الأجهزة لتلبية متطلبات حالة الاستخدام المحددة بعد عملية التصنيع"
+    ]
+  },
+  {
+    "title": "G force",
+    "conversation": [
+      "G force or g force and sometimes \"acceleration force\" is an object affected by acceleration It is the astronaut's suffering, for example, during the acceleration of the rocket launch or the pilot's suffering when the aircraft veers sharply from the straight direction",
+      " Also during the car braking process, we are briefly under the influence of Force G until the car stops"
+    ],
+    "translation": [
+      "G-Kraft oder g-Kraft und manchmal auch „Beschleunigungskraft“ ist ein Objekt, das durch die Beschleunigung beeinflusst wird",
+      " Dabei handelt es sich um das Leiden des Astronauten, beispielsweise während der Beschleunigung des Raketenstarts, oder das Leiden des Piloten, wenn das Flugzeug stark von der geraden Richtung abweicht",
+      " Auch während des Bremsvorgangs des Autos stehen wir kurzzeitig unter dem Einfluss der Kraft G, bis das Auto anhält"
+    ],
+    "arabic": [
+      "قوة G أو g وأحيانًا \"قوة التسارع\" هي جسم يتأثر بالتسارع إنها معاناة رائد الفضاء ، على سبيل المثال ، أثناء تسارع إطلاق الصاروخ أو معاناة الطيار عندما تنحرف الطائرة بشدة عن الاتجاه المستقيم",
+      " أيضًا أثناء عملية فرملة السيارة ، نتعرض لفترة وجيزة لتأثير Force G حتى تتوقف السيارة"
+    ]
+  },
+  {
+    "title": "Public Address System",
+    "conversation": [
+      "Public Address System (PA system) is an electronic sound amplification and distribution system with a microphone, amplifier and loudspeakers, used to allow a person to address a large public, for example for announcements of movements at large and noisy air and rail terminals"
+    ],
+    "translation": [
+      "Das Beschallungssystem (PA-System) ist ein elektronisches Tonverstärkungs- und -verteilungssystem mit einem Mikrofon, einem Verstärker und Lautsprechern, das es einer Person ermöglicht, ein großes Publikum anzusprechen, beispielsweise für Bewegungsankündigungen an großen und lauten Flug- und Bahnterminals"
+    ],
+    "arabic": [
+      "نظام العنوان العام (PA system) هو نظام لتضخيم الصوت وتوزيعه إلكترونيًا مزودًا بميكروفون ومكبر للصوت ومكبرات صوت ، ويستخدم للسماح لأي شخص بمخاطبة جمهور كبير ، على سبيل المثال للإعلانات عن الحركات على نطاق واسع ومحطات السكك الحديدية والهواء الصاخبة"
+    ]
+  },
+  {
+    "title": "load circuits",
+    "conversation": [
+      "An electrical load is an electrical component or portion of a circuit that consumes (active) electric power, such as electrical appliances and lights inside the home",
+      " The term may also refer to the power consumed by a circuit",
+      " This is opposed to a power source, such as a battery or generator, which produces power"
+    ],
+    "translation": [
+      "Eine elektrische Last ist eine elektrische Komponente oder ein Teil eines Stromkreises, der (aktive) elektrische Energie verbraucht, beispielsweise Elektrogeräte und Lichter im Haus",
+      " Der Begriff kann sich auch auf die von einem Stromkreis verbrauchte Leistung beziehen",
+      " Dies steht im Gegensatz zu einer Stromquelle wie einer Batterie oder einem Generator, die Strom erzeugt"
+    ],
+    "arabic": [
+      "الحمل الكهربائي هو مكون أو جزء من دائرة كهربائية تستهلك طاقة كهربائية (نشطة) ، مثل الأجهزة الكهربائية والأضواء داخل المنزل",
+      " قد يشير المصطلح أيضًا إلى الطاقة التي تستهلكها الدائرة",
+      " هذا على عكس مصدر الطاقة ، مثل البطارية أو المولد ، الذي ينتج الطاقة"
+    ]
+  },
+  {
+    "title": "3D accelerometer ",
+    "conversation": [
+      "A 3D accelerometer is a device that measures acceleration of motion of a structure",
+      " These T-Sens sensors are fully wireless, and can be placed anywhere on the body"
+    ],
+    "translation": [
+      "Ein 3D-Beschleunigungsmesser ist ein Gerät, das die Bewegungsbeschleunigung einer Struktur misst",
+      " Diese T-Sens-Sensoren sind vollständig kabellos und können überall am Körper platziert werden"
+    ],
+    "arabic": [
+      "مقياس التسارع ثلاثي الأبعاد هو جهاز يقيس تسارع حركة الهيكل",
+      " تتميز مستشعرات T-Sens بأنها لاسلكية بالكامل ويمكن وضعها في أي مكان على الجسم"
+    ]
+  },
+  {
+    "title": "the return line",
+    "conversation": [
+      "In gasoline cars in U.S",
+      ", the return line was the fuel flow outlet of a back-pressure regulator on the fuel injector rail on top of the engine",
+      " It flowed back into the fuel tank"
+    ],
+    "translation": [
+      "Bei Benzinautos in den USA war die Rücklaufleitung der Kraftstoffauslass eines Gegendruckreglers an der Kraftstoffeinspritzschiene oben am Motor",
+      " Es floss zurück in den Kraftstofftank"
+    ],
+    "arabic": [
+      "في سيارات البنزين في الولايات المتحدة ، كان خط العودة هو منفذ تدفق الوقود لمنظم الضغط الخلفي على سكة حاقن الوقود أعلى المحرك",
+      " تدفقت عائدة إلى خزان الوقود"
+    ]
+  },
+  {
+    "title": "Cable Ducting",
+    "conversation": [
+      "What is Cable Ducting? Cable ducting is a cabling protection system in which electricity/power and other types of cables run through",
+      " Designed as durable and impact-resistant as possible to make sure cables are protected from the weather and any other external factor"
+    ],
+    "translation": [
+      "Was ist Kabelkanal? Kabelkanäle sind ein Kabelschutzsystem, durch das Strom-/Stromkabel und andere Arten von Kabeln verlaufen",
+      " So langlebig und stoßfest wie möglich konzipiert, um sicherzustellen, dass die Kabel vor Witterungseinflüssen und anderen äußeren Einflüssen geschützt sind"
+    ],
+    "arabic": [
+      "ما هو كابل مجاري الهواء؟ مجاري الكابلات هي نظام حماية الكابلات التي تمر فيها الكهرباء / الطاقة وأنواع أخرى من الكابلات",
+      " تم تصميمه ليكون متينًا ومقاوم للصدمات قدر الإمكان للتأكد من حماية الكابلات من العوامل الجوية وأي عوامل خارجية أخرى"
+    ]
+  }
+]

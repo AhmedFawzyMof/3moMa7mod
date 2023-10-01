@@ -1,0 +1,146 @@
+[
+  {
+    "title": "placeholder in programming code",
+    "conversation": "A placeholder in programming code may also be used to indicate where specific code needs to be added, but the programmer has not yet written the code. The placeholder reminds the programmer where to add code, or can let other programmers know that additional code still needs to be added in general.\n\n",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "double-decker bus \n",
+    "conversation": "A double-decker bus or double-deck bus is a bus that has two storeys or decks. They are used for mass transport in the United Kingdom, the United States, Canada, New Zealand, Europe, Asia and also in cities such as Sydney; the best-known example is the red London bus,",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "Expected Wait Time\n",
+    "conversation": "Expected Wait Time (EWT) is the length of time a customer has to wait in the queue before an agent answers. However, it's not quite as simple as it sounds. There is a systematic approach to calculating EWT which should factor in things like staffing, handling time and the wait time of recent calls.\n",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "Active/Active Failover\n",
+    "conversation": "Active/Active Failover is defined by having two pieces of equipment in active status for one portion of the network and in standby for the other portion.",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "Active/passive failover\n",
+    "conversation": "Active/passive failover configurations provide a fully redundant instance of each node that is brought online only if its associated primary node fails.\n",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "Active-active solutions\n",
+    "conversation": "Active-active solutions deploy two or more active system instances and can be used to improve scalability as well as provide high availability. All instances handle requests concurrently. Active-passive solutions deploy an active instance that handles requests and a passive instance that is on standby.\n",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "active/passive configuration\n",
+    "conversation": "In an active/passive configuration, one or more nodes host the entire cluster workload, but one node remains idle (as a standby server), ready to take over processing in case a node running an application fails. This solution ensures that the performance for the fail-safe workload is the same before and after failover.\n",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "Thin provisioning\n",
+    "conversation": "Thin provisioning is a mechanism that applies to large-scale centralized computer disk-storage systems, SANs, and storage virtualization systems. Thin provisioning allows space to be easily allocated to servers, on a just-enough and just-in-time basis.\n",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "Remote Equivalent copy\n",
+    "conversation": "Remote Equivalent copy (REC), also known as Inter-ETERNUS synchronous replication, creates a replication from a source volume to a destination volume that is supported in a different ETERNUS using the REC function of the disk array. The REC function supports the following copy modes: Transfer mode. Recovery mode.\n",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "Warm standby\n",
+    "conversation": "Warm standby is a method of redundancy in which the secondary (i.e., backup) system runs in the background of the primary system. Data is mirrored to the secondary server at regular intervals, which means that there are times when both servers do not contain the exact same data",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "Edge\n",
+    "conversation": "Edge is about processing data closer to where it's being generated, enabling processing at greater speeds and volumes, leading to greater action-led results in real time. It offers some unique advantages over traditional models, where computing power is centralized at an on-premise data center.\n",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "edge-based cameras\n",
+    "conversation": "What are edge-based cameras? Generally, edge-based cameras are IP cameras or cameras with a similar design that features onboard storage. In this regard, edge recording is each security camera saving all recorded video footage data onto the internal storage hardware.\n",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "spine-leaf architecture\n",
+    "conversation": "A spine-leaf architecture is data center network topology that consists of two switching layers—a spine and leaf. The leaf layer consists of access switches that aggregate traffic from servers and connect directly into the spine or network core. Spine switches interconnect all leaf switches in a full-mesh topology.\n",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "A sink\n",
+    "conversation": "A sink, on the other hand, is a consumer of data, providing logic for the transformation and publication of data emitted from related sources. In effect, a sink describes a chain of handlers. The chain starts with zero or more transformers and ends with one or more publishers.",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "cache sink\n",
+    "conversation": "A cache sink is when a data flow writes data into the Spark cache instead of a data store. In mapping data flows, you can reference this data within the same flow many times using a cache lookup. This is useful when you want to reference data as part of an expression but don't want to explicitly join the columns to it.",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "sendmast",
+    "conversation": "Radio towers and towers are usually long structures designed to support telecommunication and broadcasting antennas, including television. There are two main types: tight structures and self-support. They are among the longest structures of man-made. Masts are often named after broadcasters that originally made or currently use them.",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "Power over Ethernet\n",
+    "conversation": "Power over Ethernet (PoE) is an access layer technology that combines data signals and electrical power into a single Ethernet cable connection to enable remote powered device. PoE switches provide PoE power and network connectivity over twisted-pair wire to access points, surveillance cameras, and other IoT devices.\n",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "Relative humidity\n",
+    "conversation": "Relative humidity (RH) (expressed as a percent) also measures water vapor, but RELATIVE to the temperature of the air. In other words, it is a measure of the actual amount of water vapor in the air compared to the total amount of vapor that can exist in the air at its current temperature.\n",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "Reason codes\n",
+    "conversation": "Reason codes, also called score factors or adverse action codes, are numerical or word-based codes that describe the reasons why a particular credit score is not higher. For example, a code might cite a high utilization rate of available credit as the main negative influence on a particular credit score.\n",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "Capital expenditures\n",
+    "conversation": "Capital expenditures (CapEx) are funds used by a company to acquire, upgrade, and maintain physical assets such as property, plants, buildings, technology, ...",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "Owner Financing\n",
+    "conversation": "What Is Owner Financing? Owner financing—also known as seller financing—lets buyers pay for a new home without relying on a traditional mortgage. Instead, the homeowner (seller) finances the purchase, often at an interest rate higher than current mortgage rates and with a balloon payment due after at least five years.\n",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "Showback\n",
+    "conversation": "Showback: A reporting mechanism used by service providers to show customers the usage and cost of resources.\n",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "Candidate List substances\n",
+    "conversation": "Candidate List substances are chemical substances of very high concern for human health and the environment. Substances of very high concern are often abbreviated as SVHC. These include endocrine disruptors and substances that are carcinogenic, toxic to reproduction or very persistent.\n",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "The Green Status of Species\n",
+    "conversation": "The Green Status of Species is a new global standard of measurement created by the IUCN (International Union for the Conservation of Nature) to help show how a species is functioning within the ecological system it lives, and how much it has recovered thanks to conservation action.\n",
+    "translation": "",
+    "arabic": ""
+  }
+]

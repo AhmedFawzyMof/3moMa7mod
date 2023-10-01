@@ -1,0 +1,152 @@
+[
+  {
+    "title": "RG-45 (Registered Jack 45)",
+    "conversation": "RG 45 or English: It is a plug socket with 8 metal wires. It is located at the end of communication cables, called Ethernet, and is used to connect computers or connect computers to the local network. It is larger than the connector used as telephone connectors and called RG 11. There are certain standards when connecting cables to the RG 45 socket.",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "Cat5 cables",
+    "conversation": "Network support – Cat5e cables offer a superior network performance compared to Cat5 cables. Cat5 cables will support network speeds of up to 10Mbps Ethernet and 100Mbps Fast Ethernet. As well as Ethernet and Fast Ethernet speeds, Cat5e cables are designed to support Gigabit speeds of up to 1000Mbps.\n",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "twisted pair cables",
+    "conversation": "Maximum segment length for all types of twisted pair cables is 100 metre. Therefore, a repeater or switch device should be used in long distance connections. Otherwise, the electrical signal will be weakened and lost.\nA Byte is usually a storing unit; however a bit is used to measure the transfere of the data.",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "The speed of data transfer",
+    "conversation": "The speed of data transfer depends on three elements. first; the capability of the switch. second; The speed of the cable and speed of LAN card. Those three elements of data connection must be compatible.",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "T568A vs T568B",
+    "conversation": "T568A and T568B are the two color codes used for wiring eight-position RJ45 modular plugs.",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "T568A vs T568B",
+    "conversation": "Both are allowed under the ANSI/TIA-568-C wiring standards. The only difference between T568A and T568B is that the orange and green pairs are interchanged. T568A wiring pattern is recognized as the preferred wiring pattern for this standard because it provides backward compatibility to both one pair and two pair USOC wiring schemes. ",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "The T568B standard\n",
+    "conversation": "The T568B standard matches the older AT&T 258A color code and is/was (?) the most widely used wiring scheme. ",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "Medium-dependent interface\n",
+    "conversation": "MDI is part of the media attachment unit that provides the physical and electrical connection to the cabling medium when linking two endpoint devices. MDIX is a version of MDI that enables connection between like devices. MDI ports connect to MDIX ports via straight-through twisted-pair cabling.",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "straight through vs crossover",
+    "conversation": "Remember, two types of devices that connect to networks. When you connect two devices of different types together, you use a straight through cable. When you connect two devices of the same type together, you use a crossover cable.04‏/06‏/2020\n",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "Hub vs switch",
+    "conversation": "Hub and Switch are the network connecting devices, both help to connect various devices. Hub works at the physical layer and transmits the signal to the port. Switch route the information and send it over the network.\n",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "Network latency\n",
+    "conversation": "Network latency is the delay in network communication. It shows the time that data takes to transfer across the network. Networks with a longer delay or lag have high latency, while those with fast response times have low latency.\n",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "Throughput",
+    "conversation": "Throughput is a measure of how many units of information a system can process in a given amount of time. It is applied broadly to systems ranging from various aspects of computer and network systems to organizations.\n",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "Bandwidth vs throughput",
+    "conversation": "While throughput is the amount of data traveling successfully across a network, bandwidth is the maximum data volume capacity of a network. If you're an IT administrator or related professional, learning about the nuances between these two metrics could help you troubleshoot and optimize your network performance.",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "goodput vs throughput",
+    "conversation": "While throughput is the measurement of all data transferring (whether that be useful or not), goodput measures useful data only. Viewing throughput cannot distinguish the nature of data flowing through, but rather only what has gone past.05‏/08‏/2021\n",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "Goodput",
+    "conversation": "In computer networks, goodput is the application-level productivity of connectivity; That is, the number of bits of useful information provided by the network to a particular destination per unit of time. The amount of data considered excludes the Protocol's overhead bits as well as repatriated data packages.",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "Attenuation",
+    "conversation": "Attenuation is the loss of signal strength in networking cables or connections. This typically is measured in decibels (dB) or voltage and can occur due to a variety of factors. It may cause signals to become distorted or indiscernible.\n",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "Crosstalk",
+    "conversation": "Crosstalk is defined as the coupling of voltage to an adjacent line through mutual coupling composed of a mutual inductance, a coupling capacitance, or both. From: Wireless Communications Design Handbook,",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "Crosstalk",
+    "conversation": "In structured cabling, crosstalk refers to electromagnetic interference from one unshielded twisted pair to another twisted pair, normally running in parallel. Signals traveling through adjacent pairs of wire create magnetic fields that interact with each other, inducing interference in the neighboring pair. The pair causing the interference is called the disturbing pair, while the pair experiencing the interference is the disturbed pair.\n",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "A straight tip connector (ST connector)\n",
+    "conversation": "A straight tip connector (ST connector) is a connector used in fiber-optic cables that utilizes a bayonet-style plug and socket. It has become the de facto standard for commercial wirings.",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "Lucent Connector (LC)",
+    "conversation": "The LC connector (short for Lucent Connector, Little Connector, or Local Connector), It features a 1.25mm Zirconia ferrule in a small form factor (SFF) fibre optic connector housing with a snag free latch which gives an audible click upon engaging for reliable and high density connections.\n",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "Subscriber (SC) connectors\n",
+    "conversation": "Subscriber (SC) connectors are one of the most common types of fiber optic connectors. They are inexpensive, durable and easy to use. A locking tab keeps this push-pull connector secure. SC connectors have a 2.5 mm ferrule, and they are commonly used in datacom and telecom applications.",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "duplex multimode lc connector\n",
+    "conversation": "LC connector was developed by Lucent Technologies and is a more evolutionary approach to achieving the goals of a SFF (small form factor) connector. LC connector utilizes traditional components of a SC duplex connector having independent ceramic ferrules and housings with the overall size scaled down by one half.\n",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "A fiber-optic patch cord\n",
+    "conversation": "A fiber-optic patch cord is a fiber-optic cable capped at either end with connectors that allow it to be rapidly and conveniently connected to CATV, an optical switch or other telecommunication equipment. Its thick layer of protection is used to connect the optical transmitter, receiver, and the terminal box.\n",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "(Carrier-sense multiple access with collision detection)\n",
+    "conversation": "What is CSMA/CD? CSMA/CD stands for Carrier Sense Multiple Access/Collision Detection, with collision detection being an extension of the CSMA protocol. This creates a procedure that regulates how communication must take place in a network with a shared transmission medium.",
+    "translation": "",
+    "arabic": ""
+  },
+  {
+    "title": "token passing\n",
+    "conversation": "On a local area network, token passing is a channel access method where a packet called a token is passed between nodes to authorize that node to communicate. In contrast to polling access methods, there is no pre-defined \"master\" node.\n",
+    "translation": "",
+    "arabic": ""
+  }
+]

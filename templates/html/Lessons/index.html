@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{lang}} Lessons</title>
+    <style>
+      * {
+        margin: 0%;
+        padding: 0%;
+        box-sizing: border-box;
+        font-family: "Poppins";
+      }
+      .lessons {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: wrap;
+        height: 100%;
+        gap: 15px;
+        padding: 20px 0;
+      }
+      .wrap {
+        width: calc(95% / 3);
+        display: grid;
+      }
+      .lesson {
+        width: 100%;
+        background: #333;
+        padding: 5px;
+        border-radius: 5px;
+        text-decoration: none;
+        color: #eee;
+        box-shadow: -2px 2px 3px 2px #3333335b;
+      }
+
+      .is-seen {
+        background: #eee;
+        color: #333;
+      }
+      @media (max-width: 500px) {
+        .lessons {
+          flex-direction: column;
+        }
+        .lesson {
+          width: 100%;
+        }
+        .wrap {
+          width: calc(95% / 1);
+          display: grid;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="lessons">
+      {%for i in range(0, len) %}
+      <div class="wrap">
+        <a
+          onclick="saveLastLesson('{{lessons.index(lessons[i])}}')"
+          href="/{{ lang }}/{{lessons.index(lessons[i])}}"
+          class="lesson"
+          key="{{lessons.index(lessons[i])}}"
+        >
+          {{ lessons[i] }} ( {{lessons.index(lessons[i])}} )
+        </a>
+      </div>
+      {% endfor %}
+    </div>
+    <script>
+      function saveLastLesson(lesson) {
+        localStorage.setItem("lastLesson", lesson);
+      }
+
+      const lessons = document.querySelectorAll("a");
+      lessons.forEach((lesson) => {
+        const lastLesson = JSON.parse(localStorage.getItem("lastLesson"));
+        const key = JSON.parse(lesson.getAttribute("key"));
+        if (lastLesson >= key) {
+          lesson.className += " is-seen";
+        }
+      });
+    </script>
+  </body>
+</html>
