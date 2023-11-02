@@ -2,47 +2,46 @@ from flask import Flask, render_template
 from gtts import gTTS 
 import os,glob
 import json
-import webview
 
 ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
 
 
-with open(f'{ROOT_DIR}/data/Chinese.json') as Chinese:
+with open('./data/Chinese.json', encoding="utf-8") as Chinese:
     Chinese_Lessons = Chinese.read()
 
 Chinese = json.loads(Chinese_Lessons)
 
-with open(f'{ROOT_DIR}/data/Korean.json') as Korean:
+with open('./data/Korean.json', encoding="utf-8") as Korean:
     Korean_Lessons = Korean.read()
 
 Korean = json.loads(Korean_Lessons)
 
-with open(f'{ROOT_DIR}/data/Russian.json') as Russian:
+with open('./data/Russian.json', encoding="utf-8") as Russian:
     Russian_Lessons = Russian.read()
 
 Russian = json.loads(Russian_Lessons)
 
-with open(f'{ROOT_DIR}/data/Spanish.json') as Spanish:
+with open('./data/Spanish.json', encoding="utf-8") as Spanish:
     Spanish_Lessons = Spanish.read()
 
 Spanish = json.loads(Spanish_Lessons)
 
-with open(f'{ROOT_DIR}/data/Turkish.json') as Turkish:
+with open('./data/Turkish.json', encoding="utf-8") as Turkish:
     Turkish_Lessons = Turkish.read()
 
 Turkish = json.loads(Turkish_Lessons)
 
-with open(f'{ROOT_DIR}/data/French.json') as French:
+with open('./data/French.json', encoding="utf-8") as French:
     French_Lessons = French.read()
 
 French = json.loads(French_Lessons)
 
-with open(f'{ROOT_DIR}/data/German.json') as German:
+with open('./data/German.json', encoding="utf-8") as German:
     German_Lessons = German.read()
 
 German = json.loads(German_Lessons)
 
-with open(f'{ROOT_DIR}/data/Italian.json') as Italian:
+with open('./data/Italian.json', encoding="utf-8") as Italian:
     Italian_Lessons = Italian.read()
 
 Italian = json.loads(Italian_Lessons)
@@ -69,7 +68,6 @@ Language = [
 ]
 
 app = Flask(__name__)
-window = webview.create_window('CodePocker!', app)
 
 @app.route("/")
 def Languages():
@@ -190,12 +188,9 @@ def remove():
     for f in files:
         os.remove(f)
 
-    return ''
+    return 
     
 
     
 
-# app.run()
-
-if __name__ == '__main__':
-    webview.start()
+app.run()
